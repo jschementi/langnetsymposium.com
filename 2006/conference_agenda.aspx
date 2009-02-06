@@ -17,10 +17,14 @@
 
 <div id="wrapper">
 
-<div id="nav"><!--#include virtual=/nav.asp-->
+<div id="nav">  
+  <div><a href="../overview.aspx">Overview</a></div>
+  <div><a href="../agenda.aspx">Agenda</a> </div>
+  <div><a href="../speakers.aspx">Speakers</a> </div>
+  <div><a href="../location.aspx">Location</a></div>
 </div>
 
-<div><a href="/"><img alt="2006 Lang.NET Symposium" src="/images/header.jpg" border="0"></a></div>
+<div><a href=".."><img alt="2006 Lang.NET Symposium" src="../images/header.jpg" border="0"></a></div>
 
 <div id="main">
 
@@ -179,7 +183,7 @@
             </table>
             <p> </p>
     </div>
-	<div id="column"><img height="148" alt="" src="/images/bkg_fading_squares.jpg" width="288"></div>
+	<div id="column"><img height="148" alt="" src="../images/bkg_fading_squares.jpg" width="288"></div>
 
 <div class="clr"></div>
 
@@ -187,7 +191,7 @@
 
 </div><!-- /wrapper -->
 
-<div id="footer"><!-- #include virtual="/footer.asp"--></div>
+<div id="footer"><!-- #include virtual="../footer.aspx"--></div>
 
 </body>
 </html>

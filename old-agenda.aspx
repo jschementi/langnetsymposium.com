@@ -35,10 +35,10 @@ td {
 
 <div id="wrapper">
 
-<div id="nav"><!--#include file="nav.asp"-->
+<div id="nav"><!--#include file="nav.aspx"-->
 </div>
 
-<div><a href="index.asp"><img alt="2008 Lang.NET Symposium" src="images/header.jpg" border="0"></a></div>
+<div><a href="index.aspx"><img alt="2008 Lang.NET Symposium" src="images/header.jpg" border="0"></a></div>
 
 <div id="main">
 
@@ -219,7 +219,7 @@ td {
             </table>
 
 		<div style="text-align: right; border-top: 1px solid #bbb; margin-top: 10px;">
-			<a href="/2006/conference_agenda.asp">2006 Conference Agenda &raquo;</a>
+			<a href="/2006/conference_agenda.aspx">2006 Conference Agenda &raquo;</a>
 		</div>
 	</div>
 
@@ -229,7 +229,7 @@ td {
 
 </div><!-- /wrapper -->
 
-<div id="footer"><!-- #include file="footer.asp"--></div>
+<div id="footer"><!-- #include file="footer.aspx"--></div>
 
 </body>
 </html>

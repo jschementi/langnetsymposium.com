@@ -61,10 +61,10 @@ hr {
 
 <div id="wrapper">
 
-<div id="nav"><!--#include file="nav.asp"-->
+<div id="nav"><!--#include file="nav.aspx"-->
 </div>
 
-<div><a href="index.asp"><img alt="2008 Lang.NET Symposium" src="images/header.jpg" border="0"></a></div>
+<div><a href="index.aspx"><img alt="2008 Lang.NET Symposium" src="images/header.jpg" border="0"></a></div>
 
 <div id="main">
 
@@ -139,7 +139,7 @@ hr {
 
 </div><!-- /wrapper -->
 
-<div id="footer"><!-- #include file="footer.asp"--></div>
+<div id="footer"><!-- #include file="footer.aspx"--></div>
 
 </body>
 </html>

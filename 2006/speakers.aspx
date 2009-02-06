@@ -10,7 +10,10 @@
 <div id="wrapper">
 
 <div id="nav">
-	<!--#include virtual="/nav.asp"-->
+	<div><a href="../overview.aspx">Overview</a></div>
+  <div><a href="../agenda.aspx">Agenda</a> </div>
+  <div><a href="../speakers.aspx">Speakers</a> </div>
+  <div><a href="../location.aspx">Location</a></div>
 </div>
 
 <div><a href="/"><img src="../images/header.jpg" alt="2006 Lang.NET Symposium" border="0" /></a></div>
@@ -477,7 +480,7 @@
 
 </div><!-- /wrapper -->
 
-<div id="footer"><!-- #include virtual="/footer.asp"--></div>
+<div id="footer"><!-- #include virtual="../footer.aspx"--></div>
 
 </body>
 </html>

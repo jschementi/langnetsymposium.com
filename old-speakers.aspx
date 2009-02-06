@@ -29,10 +29,10 @@ h3 {
 <div id="wrapper">
 
 <div id="nav">
-	<!--#include file="nav.asp"-->
+	<!--#include file="nav.aspx"-->
 </div>
 
-<div><a href="index.asp"><img src="images/header.jpg" alt="2008 Lang.NET Symposium" border="0" /></a></div>
+<div><a href="index.aspx"><img src="images/header.jpg" alt="2008 Lang.NET Symposium" border="0" /></a></div>
 
 <div id="main">
 
@@ -294,7 +294,7 @@ This talk will discuss many of the design decisions made in trying to implement 
 			</p>
 
 		<div style="text-align: right; border-top: 1px solid #bbb; margin-top: 10px;">
-			<a href="/2006/speakers.asp">2006 Speakers &raquo;</a>
+			<a href="/2006/speakers.aspx">2006 Speakers &raquo;</a>
 		</div>
           
 	</div> <!-- /content -->
@@ -305,7 +305,7 @@ This talk will discuss many of the design decisions made in trying to implement 
 
 </div><!-- /wrapper -->
 
-<div id="footer"><!-- #include file="footer.asp"--></div>
+<div id="footer"><!-- #include file="footer.aspx"--></div>
 
 </body>
 </html>

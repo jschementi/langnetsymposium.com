@@ -10,7 +10,7 @@
 <div id="wrapper">
 
 <div id="nav">
-	<!--#include file="nav.asp"-->
+	<!--#include file="nav.aspx"-->
 </div>
 
 <div><img src="images/header.jpg" alt="2006 Lang.NET Symposium" /></div>
@@ -22,7 +22,7 @@
 	        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad  minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Duis aute irure dolor in reprehenderit in  voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur  sint occaecat cupidatat non proident, sunt in culpa qui officia  deserunt mollit anim id est laborum.</p>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad  minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Duis aute irure dolor in reprehenderit in  voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur  sint occaecat cupidatat non proident, sunt in culpa qui officia  deserunt mollit anim id est laborum.</p>
 		
-		<div id="buttons"><!-- #include file="buttons.asp"--></div>
+		<div id="buttons"><!-- #include file="buttons.aspx"--></div>
 		
 	</div>
 		
@@ -34,7 +34,7 @@
 
 </div><!-- /wrapper -->
 
-<div id="footer"><!-- #include file="footer.asp"--></div>
+<div id="footer"><!-- #include file="footer.aspx"--></div>
 
 </body>
 </html>

@@ -43,7 +43,7 @@
 <div id="wrapper">
 
 <div id="nav">
-  <!--#include file="nav.asp"-->
+  <!--#include file="nav.aspx"-->
 </div>
 
 <div><img src="images/header.jpg" alt="2009 Lang.NET Symposium" width="780" height="168" border="0" /></div>
@@ -51,7 +51,7 @@
 <div id="main">
   
   <div style="font-size: 150%; font-weight: bold; text-align: center;margin-top: 10px;">
-    <script src="/js/langnetcountdown.js" type="text/javascript"></script>
+    <script src="js/langnetcountdown.js" type="text/javascript"></script>
   </div>
 
   <div id="content">
@@ -62,8 +62,8 @@
          Lang.NET 2008 videos and slides!
       </div>
       <div style="padding: 5px; color: black;">
-        They can be found on the <a href="talks.asp">Talks</a> page, as well as on 
-        the <a href="agenda.asp">Agenda</a> and <a href="speakers.asp">Speakers</a> pages.
+        They can be found on the <a href="talks.aspx">Talks</a> page, as well as on 
+        the <a href="agenda.aspx">Agenda</a> and <a href="speakers.aspx">Speakers</a> pages.
       </div>
     </div>
 -->
@@ -71,8 +71,8 @@
       <div style="font-weight: bold; font-size: 125%; padding: 4px; background-color: #00bb00; color: white;">
          Register for Lang.NET 2009!
       </div>
-      <div style="padding: 5px; color: black;">
-        Registration for Lang.NET 2009 is open! <a href="register_online.asp">Register Online today</a>.
+      <div style="padding: 5px; color: gray;">
+        <a href="register_online.aspx">Register Online today</a>, space is limited.
       </div>
     </div>
     
@@ -88,7 +88,7 @@
     </p>
     <h1>Why Attend</h1>
     <p>
-      If you are a language designer, compiler writer, or tool builder in industry or academia, Lang.NET 2008 is a unique opportunity 
+      If you are a language designer, compiler writer, or tool builder in industry or academia, Lang.NET 2009 is a unique opportunity 
       to directly interact with the architects of Microsoft language platforms.
     </p>
     <p>Microsoft language technologist will be very active participants in the conference while at least 50% of the<br /> 
@@ -118,15 +118,13 @@
         <li>How to get real programming tools into the hands of real programmers to solve real problems</li>
         <li>How researchers and practitioners can learn from each other to make this happen.</li>
       </ul>
-    </div>
-    <img src="images/home_col_low.jpg" />
-  </div>
+    </div><img src="images/home_col_low.jpg" /></div>
   <div class="clr"></div>
 </div>
 
 </div><!-- /wrapper -->
 
-<div id="footer"><!-- #include file="footer.asp"--></div>
+<div id="footer"><!-- #include file="footer.aspx"--></div>
 
 </body>
 </html>

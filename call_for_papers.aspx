@@ -10,10 +10,10 @@
 <div id="wrapper">
 
 <div id="nav">
-	<!--#include file="nav.asp"-->
+	<!--#include file="nav.aspx"-->
 </div>
 
-<div><a href="index.asp"><img src="images/header.jpg" alt="2006 Lang.NET Symposium" border="0" /></a></div>
+<div><a href="index.aspx"><img src="images/header.jpg" alt="2006 Lang.NET Symposium" border="0" /></a></div>
 
 <div id="main">
 
@@ -30,7 +30,7 @@
               <li>Dynamic languages and       scripting </li>
 	          <li>AJAX and ATLAS </li>
       </ul>
-	        <div id="buttons"><a href="call_for_papers.asp"></a><a href="register_online.asp"><img src="images/btn_sign_up.gif" alt="Sign up today link" border="0" /></a></div>
+	        <div id="buttons"><a href="call_for_papers.aspx"></a><a href="register_online.aspx"><img src="images/btn_sign_up.gif" alt="Sign up today link" border="0" /></a></div>
 	</div>
 		
 		<div id="column"><img src="images/bkg_fading_squares.jpg" alt="" width="288" height="148" /></div>
@@ -41,7 +41,7 @@
 
 </div><!-- /wrapper -->
 
-<div id="footer"><!-- #include file="footer.asp"--></div>
+<div id="footer"><!-- #include file="footer.aspx"--></div>
 
 </body>
 </html>

@@ -10,10 +10,10 @@
 <div id="wrapper">
 
 <div id="nav">
-	<!--#include file="nav.asp"-->
+	<!--#include file="nav.aspx"-->
 </div>
 
-<div><a href="index.asp"><img src="images/header.jpg" alt="2008 Lang.NET Symposium" border="0" /></a></div>
+<div><a href="index.aspx"><img src="images/header.jpg" alt="2008 Lang.NET Symposium" border="0" /></a></div>
 
 <div id="main">
 
@@ -29,7 +29,7 @@
 
 </div><!-- /wrapper -->
 
-<div id="footer"><!-- #include file="footer.asp"--></div>
+<div id="footer"><!-- #include file="footer.aspx"--></div>
 
 </body>
 </html>
