@@ -19,7 +19,7 @@
 
 	<div id="content">
 			<h1>Location </h1>
-      <p>Lang.NET 2008 will be held on April 14-16 on the Microsoft <a href="http://members.microsoft.com/careers/mslife/locations/corpcampus.mspx" target="_blank">corporate  campus in Redmond</a></p>
+      <p>Lang.NET 2009 will be held on April 14-16 on the Microsoft <a href="http://members.microsoft.com/careers/mslife/locations/corpcampus.mspx" target="_blank">corporate  campus in Redmond</a></p>
             <p> Building 99, room 1919 <br />
               One Microsoft Way<br />
               Redmond,   WA 98052</p>
