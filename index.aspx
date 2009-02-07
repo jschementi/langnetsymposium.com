@@ -6,7 +6,7 @@
 <title>2009 Lang.NET Symposium</title>
 <style type="text/css">
 <!--
-#column {
+.column {
   margin-right: 490px;
   background: url(images/home_col_mid.gif) repeat-y;
   margin-left: 22px;
@@ -14,14 +14,14 @@
   padding-bottom: 0px;
   margin-bottom: 20px;
 }
-#column .text {padding: 0px 34px 10px 20px;}
+.column .text {padding: 0px 34px 10px 20px;}
 #main {background: url(images/home_low_right.jpg) no-repeat right bottom;}
-#column h1 {font: bold 12px/20px Verdana, Arial, Helvetica, sans-serif; margin-top: 0px; padding-top: 0px; margin-bottom: 7px; text-transform: uppercase; color: #707070; border-bottom: none;	}
-#column ul {
+.column h1 {font: bold 12px/20px Verdana, Arial, Helvetica, sans-serif; margin-top: 0px; padding-top: 0px; margin-bottom: 7px; text-transform: uppercase; color: #707070; border-bottom: none;	}
+.column ul {
   margin: 0px;
   padding: 0px;
 }
-#column li {
+.column li {
   list-style: none;
   background: url(images/bullet_home.gif) no-repeat left top;
   padding-left: 30px;
@@ -49,10 +49,6 @@
 <div><img src="images/header.jpg" alt="2009 Lang.NET Symposium" width="780" height="168" border="0" /></div>
 
 <div id="main">
-  
-  <div style="font-size: 150%; font-weight: bold; text-align: center;margin-top: 10px;">
-    <script src="js/langnetcountdown.js" type="text/javascript"></script>
-  </div>
 
   <div id="content">
 
@@ -67,14 +63,11 @@
       </div>
     </div>
 -->
-    <div class="announcement" style="border: 5px solid #00bb00;">
-      <div style="font-weight: bold; font-size: 125%; padding: 4px; background-color: #00bb00; color: white;">
-         Register for Lang.NET 2009!
-      </div>
-      <div style="padding: 5px; color: gray;">
-        <a href="register_online.aspx">Register Online today</a>, space is limited.
-      </div>
+
+    <div style="font-size: 150%; font-weight: bold; text-align: center;">
+      <script src="js/langnetcountdown.js" type="text/javascript"></script>
     </div>
+    <!--#include file="registration_link.aspx"-->
     
     <h1>Overview</h1>
     <p>
@@ -91,22 +84,18 @@
       If you are a language designer, compiler writer, or tool builder in industry or academia, Lang.NET 2009 is a unique opportunity 
       to directly interact with the architects of Microsoft language platforms.
     </p>
-    <p>Microsoft language technologist will be very active participants in the conference while at least 50% of the<br /> 
-      program is reserved for presentations<br /> 
-      by non-Microsoft employees.
+    <p>
+      Microsoft language technologist will be very active participants in the 
+      conference while at least 50% of the program is reserved <br />
+      for presentations by non-Microsoft employees.
     </p>
-    <p>Each day is concluded with 
-      a<br />
-      panel debate. In the 
-        evenings<br /> 
-        there will be 
-        ample opportunity<br /> 
-        for 
-        networking during the<br />
-      social events and dinners.
+    <p>
+      In the evenings there will be ample<br /> 
+      opportunity for networking during <br />
+      the social events and dinners.
     </p>
   </div>
-  <div id="column">
+  <div class="column">
     <img src="images/home_col_top.jpg" />
     <div class="text"><h1>Program</h1>
       <p>
@@ -114,9 +103,21 @@
         and building language tools that target managed execution platforms such as the DLR, .NET CLR and other implementations 
         of the <a href="http://www.ecma-international.org/publications/standards/Ecma-335.htm">ECMA CLI</a>.
       </p>
+    </div><img src="images/home_col_low.jpg" /></div>
+    
+  <div class="column">
+    <img src="images/home_col_top.jpg" />
+    <div class="text"><h1>Content Archive</h1>
       <ul>
-        <li>How to get real programming tools into the hands of real programmers to solve real problems</li>
-        <li>How researchers and practitioners can learn from each other to make this happen.</li>
+        <li><b style="font-size: 12px">2008</b><br />
+          <a href="2008/talks.aspx">Talks</a><br />
+          <a href="2008/agenda.aspx">Agenda</a><br />
+          <a href="2008/speakers.aspx">Speakers</a>
+        </li>
+        <li><b style="font-size: 12px">2006</b><br />
+          <a href="2006/conference_agenda.aspx">Agenda</a><br />
+          <a href="2006/speakers.aspx">Speakers</a>
+        </li>
       </ul>
     </div><img src="images/home_col_low.jpg" /></div>
   <div class="clr"></div>

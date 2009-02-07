@@ -19,16 +19,10 @@
 
 	<div id="content">
 			<h1>Location </h1>
-      <p>Lang.NET 2008 will be held on January 28 - 30 on the Microsoft <a href="http://members.microsoft.com/careers/mslife/locations/corpcampus.mspx" target="_blank">corporate  campus in Redmond</a></p>
-            <p> Building 20 <br />
+      <p>Lang.NET 2008 will be held on April 14-16 on the Microsoft <a href="http://members.microsoft.com/careers/mslife/locations/corpcampus.mspx" target="_blank">corporate  campus in Redmond</a></p>
+            <p> Building 99, room 1919 <br />
               One Microsoft Way<br />
               Redmond,   WA 98052</p>
-            <h1>More information </h1>
-            <ul>
-              <li><a href="http://msdn.microsoft.com/events/pac/" target="_blank">About building 20</a></li>
-              <li><a href="http://msdn.microsoft.com/events/pac/directions/default.aspx" target="_blank">Directions</a></li>
-              <li><a href="http://msdn.microsoft.com/events/pac/hotels/default.aspx" target="_blank">Local hotels</a></li>
-            </ul>
 	</div>
 		
 		<div id="column"><img src="images/bkg_fading_squares.jpg" alt="" width="288" height="148" /></div>

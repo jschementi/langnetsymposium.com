@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<link href="screen.css" rel="stylesheet" type="text/css"/>
+<link href="../screen.css" rel="stylesheet" type="text/css"/>
 <title>2008 Lang.NET Symposium - Conference Agenda</title>
 <style type="text/css">
 <!--
@@ -35,15 +35,19 @@ td {
 
 <div id="wrapper">
 
-<div id="nav"><!--#include file="nav.aspx"-->
+<div id="nav">
+  <div><a href="../overview.aspx">Overview</a></div>
+  <div><a href="../agenda.aspx">Agenda</a> </div>
+  <div><a href="../speakers.aspx">Speakers</a> </div>
+  <div><a href="../location.aspx">Location</a></div>
 </div>
 
-<div><a href="index.aspx"><img alt="2008 Lang.NET Symposium" src="images/header.jpg" border="0"></a></div>
+<div><a href="../index.aspx"><img alt="2008 Lang.NET Symposium" src="../images/header.jpg" border="0"></a></div>
 
 <div id="main">
 
 	<div id="content">
-		<h1>Agenda </h1>
+		<h1>2008 Agenda </h1>
 
             <table width="700" border="0" cellspacing="0" cellpadding="0" class="niceTable">
               <tr>
@@ -219,7 +223,7 @@ td {
             </table>
 
 		<div style="text-align: right; border-top: 1px solid #bbb; margin-top: 10px;">
-			<a href="2006/conference_agenda.aspx">2006 Conference Agenda &raquo;</a>
+			<a href="../2006/conference_agenda.aspx">2006 Conference Agenda &raquo;</a>
 		</div>
 	</div>
 
@@ -229,7 +233,7 @@ td {
 
 </div><!-- /wrapper -->
 
-<div id="footer"><!-- #include file="footer.aspx"--></div>
+<div id="footer"><!-- #include file="../footer.aspx"--></div>
 
 </body>
 </html>

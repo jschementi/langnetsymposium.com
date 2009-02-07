@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<link href="screen.css" rel="stylesheet" type="text/css" />
+<link href="../screen.css" rel="stylesheet" type="text/css" />
 <title>2008 Lang.NET Symposium - Speakers</title>
 <style type="text/css">
 hr {
@@ -29,15 +29,18 @@ h3 {
 <div id="wrapper">
 
 <div id="nav">
-	<!--#include file="nav.aspx"-->
+	<div><a href="../overview.aspx">Overview</a></div>
+  <div><a href="../agenda.aspx">Agenda</a> </div>
+  <div><a href="../speakers.aspx">Speakers</a> </div>
+  <div><a href="../location.aspx">Location</a></div>
 </div>
 
-<div><a href="index.aspx"><img src="images/header.jpg" alt="2008 Lang.NET Symposium" border="0" /></a></div>
+<div><a href="../index.aspx"><img src="../images/header.jpg" alt="2008 Lang.NET Symposium" border="0" /></a></div>
 
 <div id="main">
 
 	<div id="content">
-          <h1>Speakers</h1>
+          <h1>2008 Speakers</h1>
           
 			<h2>Dan Ingalls</h2>
 			<p>
@@ -294,7 +297,7 @@ This talk will discuss many of the design decisions made in trying to implement 
 			</p>
 
 		<div style="text-align: right; border-top: 1px solid #bbb; margin-top: 10px;">
-			<a href="2006/speakers.aspx">2006 Speakers &raquo;</a>
+			<a href="../2006/speakers.aspx">2006 Speakers &raquo;</a>
 		</div>
           
 	</div> <!-- /content -->
@@ -305,7 +308,7 @@ This talk will discuss many of the design decisions made in trying to implement 
 
 </div><!-- /wrapper -->
 
-<div id="footer"><!-- #include file="footer.aspx"--></div>
+<div id="footer"><!-- #include file="../footer.aspx"--></div>
 
 </body>
 </html>
