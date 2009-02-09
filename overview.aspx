@@ -41,6 +41,14 @@
 	      participants in the conference but at least 50% of the  program is reserved for presentations by non-Microsoft employees.
 	      In the evenings there will be ample opportunity for networking during the social events and dinners.
 	    </p>
+	    <p>
+	      Additionally, this year the Lang.NET Symposium will be followed directly by the 
+	      <a href="http://sellsbrothers.com/conference/" target="_blank">Domain Specific Language Developers Conference</a>, 
+	      hosted by Chris Sells of Microsoft’s Connected Systems Division. The DSL DevCon will be focused on practical and applied uses of 
+	      DSLs and will be taking place in exactly the same building as the Lang.NET Symposium. Attendance for the DSLD DevCon is free, 
+	      but you must register in order to attend. Please visit 
+	      <a href="http://sellsbrothers.com/conference/" target="_blank">sellsbrothers.com/conference</a> for more information.
+	    </p>
 	</div>
 		
   <div id="column"><img src="images/bkg_fading_squares.jpg" alt="" width="288" height="148" /></div>

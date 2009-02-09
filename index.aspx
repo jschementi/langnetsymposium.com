@@ -86,13 +86,18 @@
     </p>
     <p>
       Microsoft language technologist will be very active participants in the 
-      conference while at least 50% of the program is reserved <br />
-      for presentations by non-Microsoft employees.
+      conference while at least 50% of the program is reserved for presentations by non-Microsoft employees.
     </p>
     <p>
-      In the evenings there will be ample<br /> 
-      opportunity for networking during <br />
-      the social events and dinners.
+      In the evenings there will be ample opportunity for networking during the social events and dinners.
+    </p>
+    <p>
+      Additionally, this year the Lang.NET Symposium will be <br />
+      followed directly by the <a href="http://sellsbrothers.com/conference/" target="_blank">Domain Specific Language<br /> Developers Conference</a>, hosted by <br />
+      Chris Sells of Microsoft’s Connected <br />
+      Systems Division. Please visit <br />
+      <a href="http://sellsbrothers.com/conference/" target="_blank">sellsbrothers.com/conference</a> <br />
+      for more information.
     </p>
   </div>
   <div class="column">
