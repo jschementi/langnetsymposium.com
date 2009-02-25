@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <link href="screen.css" rel="stylesheet" type="text/css" />
-<title>2008 Lang.NET Symposium - Overview</title>
+<title>2009 Lang.NET Symposium - Overview</title>
 </head>
 
 <body>
@@ -13,7 +13,7 @@
 	<!--#include file="nav.aspx"-->
 </div>
 
-<div><a href="index.aspx"><img src="images/header.jpg" alt="2008 Lang.NET Symposium" border="0" /></a></div>
+<div><a href="index.aspx"><img src="images/header.jpg" alt="2009 Lang.NET Symposium" border="0" /></a></div>
 
 <div id="main">
 
@@ -36,7 +36,7 @@
 	      practitioners can learn from each other to make this happen. 
 	    </p>
 	    <p>
-	      If you are a language designer, compiler writer, or tool builder in industry or academia, Lang.NET 2008 is a unique opportunity 
+	      If you are a language designer, compiler writer, or tool builder in industry or academia, Lang.NET 2009 is a unique opportunity 
 	      to directly interact with the  architects of Microsoft language platforms. Microsoft language technologist  will be very active
 	      participants in the conference but at least 50% of the  program is reserved for presentations by non-Microsoft employees.
 	      In the evenings there will be ample opportunity for networking during the social events and dinners.

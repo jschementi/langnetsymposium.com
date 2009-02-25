@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <link href="screen.css" rel="stylesheet" type="text/css" />
-<title>2008 Lang.NET Symposium - Location</title>
+<title>2009 Lang.NET Symposium - Location</title>
 </head>
 
 <body>
@@ -13,7 +13,7 @@
 	<!--#include file="nav.aspx"-->
 </div>
 
-<div><a href="index.aspx"><img src="images/header.jpg" alt="2008 Lang.NET Symposium" border="0" /></a></div>
+<div><a href="index.aspx"><img src="images/header.jpg" alt="2009 Lang.NET Symposium" border="0" /></a></div>
 
 <div id="main">
 
