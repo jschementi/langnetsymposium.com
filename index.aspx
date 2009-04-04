@@ -52,6 +52,20 @@
 
   <div id="content">
 
+    <div style="font-size: 150%; font-weight: bold; text-align: center;">
+      <script src="js/langnetcountdown.js" type="text/javascript"></script>
+    </div>
+    <!--include file="registration_link.aspx"-->
+    
+    <div class="announcement" style="margin-top: 10px; border: 5px solid #00bb00; ">
+      <div style="font-weight: bold; font-size: 125%; padding: 4px; background-color: #00bb00; color: white;">
+         Lang.NET 2009 Agenda and Speakers
+      </div>
+      <div style="padding: 5px; color: black;">
+        The <a href="agenda.aspx">2009 Agenda</a> is now available. Talk topics and speaker biographics can be found on the <a href="speakers.aspx">Speakers</a> page.
+      </div>
+    </div>
+    
 <!--
     <div class="announcement" style="border: 5px solid #00bb00; ">
       <div style="font-weight: bold; font-size: 125%; padding: 4px; background-color: #00bb00; color: white;">
@@ -63,11 +77,6 @@
       </div>
     </div>
 -->
-
-    <div style="font-size: 150%; font-weight: bold; text-align: center;">
-      <script src="js/langnetcountdown.js" type="text/javascript"></script>
-    </div>
-    <!--#include file="registration_link.aspx"-->
     
     <h1>Overview</h1>
     <p>

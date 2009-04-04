@@ -287,7 +287,7 @@ This talk will discuss many of the design decisions made in trying to implement 
 			</p>
 			<p>
 				Wesner Moise previously worked for six years as a software developer in the Microsoft Excel group from 1994-2000, upon graduation from Harvard College, with a degree in applied mathematics and computer science. From 2000-2002 and completed an full-time MBA program in entrepreneurship at the UCLA Anderson school of business.
-			</a>
+			</p>
 			</p>
 			<h3>Promising New Approach to Static Analysis <a href="talks/3-04 - NStatic - Wesner Moise - SoftPerson.html">video</a></h3>
 			<p>

@@ -3,6 +3,25 @@
 <head>
 <link href="../screen.css" rel="stylesheet" type="text/css" />
 <title>2009 Lang.NET Symposium - Speakers</title>
+<style type="text/css">
+hr {
+	border: 0px; margin: 0px; padding: 0px;
+	margin-bottom: 15px;
+	border-bottom: 1px solid #bbb;
+}
+#content {
+	width: auto;
+	float: left;
+	padding-left: 36px;
+	padding-right: auto;
+}
+#main {
+	background-image: none;
+}
+h3 {
+
+}
+</style>
 </head>
 
 <body>
@@ -173,8 +192,6 @@
 		</div>
           
 	</div> <!-- /content -->
-
-  <div id="column"><img src="../images/bkg_fading_squares.jpg" alt="" width="288" height="148" /></div>
 
 	<div class="clr"></div>
 

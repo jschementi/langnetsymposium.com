@@ -73,7 +73,7 @@ td {
       <tr>
       	<td rowspan="4"><span class="style1">9:00a</span></td>
       	<td rowspan="2"><strong>Keynote</strong> (30 min)<br />Jason Zander - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
-      	<td rowspan="2"><strong>JavaScript - How Fast Can You Go?</strong> (30 hr)<br />Lars Bak - Google</td>
+      	<td rowspan="2"><strong>JavaScript - How Fast Can You Go?</strong> (30 hr)<br />Lars Bak - <a href="http://google.com">Google</a></td>
       	<td rowspan="2"><strong>Code Contracts</strong> (30 min)<br />Manuel Fahndrich - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr></tr>
@@ -84,8 +84,8 @@ td {
       </tr>
       <tr>
         <td rowspan="2"><strong>C# 4.0 Dynamic</strong> (30 min)<br />Martin Maly - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
-        <td rowspan="2"><strong>JVM Method Handles and Interface Injection</strong> (30 min)<br />John Rose - Sun Microsystems</td>
-        <td rowspan="2"><strong>Eagle - Tcl implementation in C#</strong> (30 min)<br />Joe Mistachkin - Tcl/Tk</td>
+        <td rowspan="2"><strong>JVM Method Handles and Interface Injection</strong> (30 min)<br />John Rose - <a href="http://sun.com">Sun Microsystems</a></td>
+        <td rowspan="2"><strong>Eagle - Tcl implementation in C#</strong> (30 min)<br />Joe Mistachkin - <a href="http://www.tcl.tk/software/tcltk/" target="_blank">Tcl/Tk</a></td>
       </tr>
               
       <!-- 10 AM -->
@@ -109,8 +109,8 @@ td {
       <!-- 11 AM -->
       <tr>
       	<td rowspan="4"><span class="style1">11:00a</span></td>
-        <td rowspan="2"><strong>Numerical Computing on the DLR</strong> (30 min)<br />Jeffrey Sax - Extreme Optimization</td>
-        <td><strong>Concurrency in F#</strong> (15 min)<br />Amanda Laucher - Sophic Group</td>
+        <td rowspan="2"><strong>Numerical Computing on the DLR</strong> (30 min)<br />Jeffrey Sax - <a href="http://www.extremeoptimization.com" target="_blank">Extreme Optimization</a></td>
+        <td><strong>Concurrency in F#</strong> (15 min)<br />Amanda Laucher - <a href="http://www.sophicgroup.net" target="_blank">Sophic Group</a></td>
         <td class="break">Break (15 min)</td>
       </tr>
       <tr>
@@ -139,17 +139,17 @@ td {
       <!-- 1 PM -->
       <tr>
       	<td rowspan="4"><span class="style1">1:00p</span></td>
-      	<td rowspan="2"><strong>Newspeak Hopscotch IDE</strong> (30 min)<br />Gilad Bracha - Ministry of Truth</td>
+      	<td rowspan="2"><strong>Newspeak Hopscotch IDE</strong> (30 min)<br />Gilad Bracha - <a href="http://newspeaklanguage.org/" target="_blank">Ministry of Truth</a></td>
       	<td rowspan="2"><b>LiveLabs Reactive Framework</b> (30 min)<br />Erik Meijer - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       	<td rowspan="24" class="meal"><a href="http://www.sellsbrothers.com/conference/" target="_blank">DevCon</a></td>
       </tr>
-      <tr></tr>
+      <tr></tr> 
       <tr>
         <td class="break">Break (15 min)</td>
         <td class="break">Break (15 min)</td>
       </tr>
       <tr>
-      	<td rowspan="2"><b>SABLE Programming Language</b> (30 min)<br />Keith Robertson - Kuler Software Tools</td>
+      	<td rowspan="2"><b>SABLE Programming Language</b> (30 min)<br />Keith Robertson - <a href="http://www.kuler.com/" target="_blank">Kuler Software Tools</a></td>
       	<td rowspan="2"><b>Tales from the F# productization</b> (30 min)<br />Luke Hoban - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       
@@ -162,7 +162,7 @@ td {
         <td class="break">Break (15 min)</td>
       </tr>
       <tr>
-        <td><b>Objective C#</b> (15 min)<br />Ted Neward - ThoughtWorks</td>
+        <td><b>Objective C#</b> (15 min)<br />Ted Neward - <a href="http://www.thoughtworks.com/" target="_blank">ThoughtWorks</a></td>
         <td rowspan="2"><b>Common Compiler Infrastructure</b> (30 min)<br />Herman Venter - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr>
@@ -172,11 +172,12 @@ td {
       <!-- 3 PM -->
       <tr>
       	<td rowspan="4"><span class="style1">3:00p</span></td>
-      	<td><b>Irony</b> (15 min)<br />Roman Ivantsov - Tyler Technologies</td>
-      	<td rowspan="2"><b>NStatic</b> (30 min)<br />Wesner Moise - SoftPerson, LLC</td>
+      	<td><b>Irony</b> (15 min)<br />Roman Ivantsov - <a href="http://www.tylertech.com/" target="_blank">Tyler Technologies</a></td>
+      	<td class="lightning">Lightning talk (15 min)</td>
       </tr>
       <tr>
-      	<td><b>IronPython Scripting in MS Dynamics</b> (15 min)<br />Roman Ivantsov - Tyler Technologies</td>
+      	<td><b>IronPython Scripting in MS Dynamics</b> (15 min)<br />Roman Ivantsov - <a href="http://www.tylertech.com/" target="_blank">Tyler Technologies</a></td>
+      	<td class="lightning">Lightning talk (15 min)</td>
       </tr>
       <tr>
         <td class="break">Break (15 min)</td>
@@ -184,7 +185,7 @@ td {
       </tr>
       <tr>
       	<td><b>Powershell (V2)</b> (15 min)<br />Jeffrey Snover - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
-      	<td><b>Intro to a Visual Studio Language Service</b> (15 min)<br />Ted Neward - ThoughtWorks</td>
+      	<td><b>Intro to a Visual Studio Language Service</b> (15 min)<br />Ted Neward - <a href="http://www.thoughtworks.com/" target="_blank">ThoughtWorks</a></td>
       </tr>
       
       <!-- 4 PM -->
@@ -209,7 +210,7 @@ td {
       <!-- 5 PM -->
       <tr>
       	<td rowspan="4"><span class="style1">5:00p</span></td>
-        <td><b>Eiffel</b> (15 min)<br />Emmanuel Stapf - Eiffel Software</td>
+        <td><b>Eiffel</b> (15 min)<br />Emmanuel Stapf - <a href="http://www.eiffel.com/" target="_blank">Eiffel Software</a></td>
         <td class="break">Break (15 min)</td>
       </tr>
       <tr>
@@ -217,7 +218,7 @@ td {
       	<td><b>Survey of Tools and Languages</b> (15 min)<br />Keith Curtis</td>
       </tr>
       <tr>
-      	<td rowspan="2" class="meal">Buses to Rock Bottom</td>
+      	<td rowspan="2" class="meal">Buses to <a href="http://www.rockbottom.com/DisplayLocationRBR.php?FKLocationID=10056" target="_blank">Rock Bottom</a></td>
       	<td rowspan="8" class="meal">Dinner (B99)</td>
       </tr>
       <tr></tr>
@@ -225,7 +226,7 @@ td {
       <!-- 6 PM -->
       <tr>
       	<td rowspan="4"><span class="style1">6:00p</span></td>
-      	<td rowspan="4" class="meal">Dinner (Rock Bottom, Bellevue, WA)</td>
+      	<td rowspan="4" class="meal">Dinner at <a href="http://www.rockbottom.com/DisplayLocationRBR.php?FKLocationID=10056" target="_blank">Rock Bottom, Bellevue, WA</a></td>
       </tr>
       <tr></tr>
       <tr></tr>
