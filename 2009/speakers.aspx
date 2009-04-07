@@ -132,6 +132,14 @@ h3 {
     <p>The reactivity of an application is the key concern of the user. When writing reactive applications, we need to handle user interaction, but also spawning and completion of asynchronous operations (such as web service requests) and inputs from concurrently executing computations. In this talk, we’ll look at a simple extension for the F# language that adds generalized pattern matching to F# computation expressions. We’ll use this extension for providing easy syntax for many reactive and concurrent programming techniques. In particular, we’ll look how pattern matching on multiple sources of events makes it possible to clearly encode the logic of the application control flow. (This is a project done with Don Syme during an internship at Microsoft Research Cambridge)</p>
     <hr />
 
+    <a name="Jim Purbrick"></a>  
+    <h2>Jim Purbrick</h2>
+    <p></p>
+    <a name="the-second-life-cloud"></a>
+    <h3>The Second Life Cloud: Running 10M Untrusted, User Generated Applications On The CLI In A Virtual World the Size Of Denmark</h3>
+    <p>Since we talked about scripting in Second Life at Lang.NET 2006 the world has grown from 900 to 1800 square kilometers, peak concurrency has grown from under 10,000 to over 86,000 and 10M of the 68M running user generated, untrusted scripts have been converted to run on the CLI.</p>
+    <p>Over the same period plaforms like Google's App Engine have made running sandboxed, untrusted code in the cloud a hot topic. This talk will discuss the issues inherent in building a sandbox for untrusted code using the CLI and the solutions we implemented for Second Life.</p>
+
     <h2>Karl Prosser</h2>
     <p></p>
     <h3>Building DSLs and language enhancements with PowerShell</h3>
@@ -184,6 +192,12 @@ h3 {
     <h3>Modeling: Language and Data</h3>
     <p></p>
     <hr />
+
+    <a name="philip-wadler"></a>
+    <h2>Philip Wadler</h2>
+    <p></p>
+    <h3>Links: Web programming without tiers</h3>
+    <p>Links is a programming language for web applications that generates code for all three tiers of a web application from a single source, compiling into JavaScript to run on the client and into SQL to run on the database. Links supports rich clients running in what has been dubbed Ajax style, and supports concurrent processes with statically-typed message passing. Links is scalable in the sense that session state is preserved in the client rather than the server, in contrast to other approaches such as Java Servlets or PLT Scheme. Client-side concurrency in JavaScript and transfer of computation between client and server are both supported by translation into continuation-passing style.</p>
 
     <a name="frank-wierzbicki"></a>
     <h2>Frank Wierzbicki</h2>

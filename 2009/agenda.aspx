@@ -182,13 +182,12 @@ td {
       </tr>
       <tr>
       	<td><b>Powershell (V2)</b> (15 min)<br />Jeffrey Snover - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
-      	<td class="break">Break (15 min)</td>
+      	<td rowspan="2"><b>Links: Web programming without tiers</b> (30 min)<br /><a href="speakers.aspx#philip-wadler">Philip Wadler</a> - <a href="http://www.ed.ac.uk/" target="_blank">University of Edinburgh</a></td>
       </tr>
       
       <!-- 4 PM -->
       <tr>
       	<td rowspan="4"><span class="style1">4:00p</span></td>
-      	<td class="lightning">Lightning talk (15 min)</td>
       	<td class="lightning">Lightning talk (15 min)</td>
       </tr>
       <tr>
@@ -207,11 +206,10 @@ td {
       <!-- 5 PM -->
       <tr>
       	<td rowspan="4"><span class="style1">5:00p</span></td>
-        <td class="break">Break (15 min)</td>
+      	<td rowspan="2"><b><a href="speakers.aspx#the-second-life-cloud">The Second Life Cloud</a></b> (30 min) <br /><a href="speakers.aspx#jim-purbrick">Jim Purbrick</a> - <a href="http://lindenlab.com/">Linden Lab</a></td>
         <td class="break">Break (15 min)</td>
       </tr>
       <tr>
-      	<td class="lightning">Lightning talk (15 min)</td>
       	<td><b>Survey of Tools and Languages</b> (15 min)<br />Keith Curtis</td>
       </tr>
       <tr>
