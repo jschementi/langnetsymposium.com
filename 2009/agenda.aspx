@@ -97,7 +97,7 @@ td {
       <tr>
         <td><strong>Bootstrapping Perl 6 on .NET</strong> (15 min)<br />Matthew Wilson</td>
         <td rowspan="2"><strong>What's new in CLR 4 for Languages</strong> (30 min)<br />Joshua Goodman - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
-        <td rowspan="2"><strong>M + DSLs</strong> (30 min)<br />Paul Vick - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
+        <td rowspan="2"><strong>Modeling: Language and Data</strong> (30 min)<br />Paul Vick - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr>
       	<td class="lightning">Lightning talk (15 min)</td>
@@ -112,7 +112,7 @@ td {
       </tr>
       <tr>
         <td class="break">Break (15 min)</td>
-        <td rowspan="2"><strong>Modeling in Text: DSL to Database</strong> (30 min)<br />David Langworthy - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
+        <td rowspan="2"><strong>Modeling: Transformation and Constraints</strong> (30 min)<br />David Langworthy - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr>
         <td class="break">Break (15 min)</td>
@@ -174,7 +174,7 @@ td {
       </tr>
       <tr>
       	<td><b>IronPython Scripting in MS Dynamics</b> (15 min)<br />Roman Ivantsov - <a href="http://www.tylertech.com/" target="_blank">Tyler Technologies</a></td>
-      	<td class="lightning">Lightning talk (15 min)</td>
+      	<td><b><a href="speakers.aspx#jython-and-the-jvm">Jython and the JVM</a></b> (15 min)<br /><a href="speakers.aspx#frank-wierzbicki">Frank Wierzbicki</a> - <a href="http://sun.com">Sun Microsystems</a></td>
       </tr>
       <tr>
         <td class="break">Break (15 min)</td>

@@ -92,7 +92,7 @@ h3 {
     
     <h2>David Langworthy</h2>
     <p></p>
-    <h3>Modeling in Text: DSL to Database</h3>
+    <h3>Modeling: Transformation and Constraints</h3>
     <p>This talk introduces all the concepts of the Oslo Modeling Language: M.  You will see how to create a language for a domain.  Shape the resulting data into a useful form.  Send the data to XML, CLR, and SQL.  Then write transformations and constraints. </p>
     <hr />
     
@@ -176,9 +176,16 @@ h3 {
 
     <h2>Paul Vick</h2>
     <p></p>
-    <h3>M and DSLs</h3>
+    <h3>Modeling: Language and Data</h3>
     <p></p>
     <hr />
+
+    <a name="frank-wierzbicki"></a>
+    <h2>Frank Wierzbicki</h2>
+    <p></p>
+    <a name="jython-and-the-jvm"></a>
+    <h3>Jython and the JVM</h3>
+    <p>Jython is an implementation of the high-level, dynamic, object-oriented language Python written in Java, and seamlessly integrated with the Java platform. It thus allows you to run Python on any Java platform.  I will give an overview of Jython's implementation, with a focus on the current challenges with method dispatch, and how we can use Invokedyanamic and Mehtod Handles coming in JDK 7 to make the implementation better.</p>
 
     <h2>Matthew Wilson</h2>
     <p>Matthew is a programmer and language enthusiast.  He works as a contractor on both .Net and Perl software.</p>
