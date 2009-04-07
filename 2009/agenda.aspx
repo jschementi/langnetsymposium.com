@@ -90,32 +90,32 @@ td {
       	<td rowspan="4"><span class="style1">10:00a</span></td>
       </tr>
       <tr>
-      	<td class="break">Break (15 min)</td>
-      	<td class="break">Break (15 min)</td>
+      	<td class="lightning">Lightning talk (15 min)</td>
+      	<td class="lightning">Lightning talk (15 min)</td>
       	<td class="lightning">Lightning talk (15 min)</td>
       </tr>
       <tr>
-        <td><strong>Bootstrapping Perl 6 on .NET</strong> (15 min)<br />Matthew Wilson</td>
+        <td rowspan="2"><strong>Numerical Computing on the DLR</strong> (30 min)<br />Jeffrey Sax - <a href="http://www.extremeoptimization.com" target="_blank">Extreme Optimization</a></td>
         <td rowspan="2"><strong>What's new in CLR 4 for Languages</strong> (30 min)<br />Joshua Goodman - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
         <td rowspan="2"><strong>Modeling: Language and Data</strong> (30 min)<br />Paul Vick - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr>
-      	<td class="lightning">Lightning talk (15 min)</td>
       </tr>
       
       <!-- 11 AM -->
       <tr>
       	<td rowspan="4"><span class="style1">11:00a</span></td>
-        <td rowspan="2"><strong>Numerical Computing on the DLR</strong> (30 min)<br />Jeffrey Sax - <a href="http://www.extremeoptimization.com" target="_blank">Extreme Optimization</a></td>
-        <td><strong>Concurrency in F#</strong> (15 min)<br />Amanda Laucher - <a href="http://www.sophicgroup.net" target="_blank">Sophic Group</a></td>
+        <td class="break">Break (15 min)</td>
+        <td class="break">Break (15 min)</td>
         <td class="break">Break (15 min)</td>
       </tr>
       <tr>
-        <td class="break">Break (15 min)</td>
+        <td><strong>Bootstrapping Perl 6 on .NET</strong> (15 min)<br />Matthew Wilson</td>
+        <td><strong>Concurrency in F#</strong> (15 min)<br />Amanda Laucher - <a href="http://www.sophicgroup.net" target="_blank">Sophic Group</a></td>
         <td rowspan="2"><strong>Modeling: Transformation and Constraints</strong> (30 min)<br />David Langworthy - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr>
-        <td class="break">Break (15 min)</td>
+      	<td class="lightning">Lightning talk (15 min)</td>
         <td rowspan="2"><strong>Reactive pattern matching in F#</strong> (30 min)<br />Tomas Petricek</td>
       </tr>
       <tr>
@@ -142,8 +142,8 @@ td {
       </tr>
       <tr></tr> 
       <tr>
-        <td class="break">Break (15 min)</td>
-        <td class="break">Break (15 min)</td>
+      	<td class="lightning">Lightning talk (15 min)</td>
+      	<td class="lightning">Lightning talk (15 min)</td>
       </tr>
       <tr>
       	<td rowspan="2"><b>SABLE Programming Language</b> (30 min)<br />Keith Robertson - <a href="http://www.kuler.com/" target="_blank">Kuler Software Tools</a></td>
@@ -191,8 +191,8 @@ td {
         <td><b>Building DSLs with Powershell</b> (15 min)<br />Karl Prosser</td>
       </tr>
       <tr>
-        <td class="break">Break (15 min)</td>
-        <td class="break">Break (15 min)</td>
+      	<td class="lightning">Lightning talk (15 min)</td>
+      	<td class="lightning">Lightning talk (15 min)</td>
       </tr>
       <tr>
       	<td><b>Static Analysis</b> (15 min)<br />Wesner Moise - SoftPerson, LLC</td>
@@ -200,14 +200,14 @@ td {
       </tr>
       <tr>
         <td class="break">Break (15 min)</td>
-      	<td class="lightning">Lightning talk (15 min)</td>
+        <td class="break">Break (15 min)</td>
       </tr>
       
       <!-- 5 PM -->
       <tr>
       	<td rowspan="4"><span class="style1">5:00p</span></td>
       	<td rowspan="2"><b><a href="speakers.aspx#the-second-life-cloud">The Second Life Cloud</a></b> (30 min) <br /><a href="speakers.aspx#jim-purbrick">Jim Purbrick</a> - <a href="http://lindenlab.com/">Linden Lab</a></td>
-        <td class="break">Break (15 min)</td>
+      	<td class="lightning">Lightning talk (15 min)</td>
       </tr>
       <tr>
       	<td><b>Survey of Tools and Languages</b> (15 min)<br />Keith Curtis</td>
