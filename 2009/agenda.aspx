@@ -55,12 +55,9 @@ td {
     <table width="700" border="0" cellspacing="0" cellpadding="0" class="niceTable">
       <tr>
         <th bgcolor="#cce4f4"><strong>Time</strong></th>
-        <th bgcolor="#cce4f4"><strong>Monday<br>
-        Jan 28</strong></th>
-        <th bgcolor="#cce4f4"><strong>Tuesday <br>
-        Jan 29</strong></th>
-        <th bgcolor="#cce4f4"><strong>Wednesday <br>
-        Jan 30</strong></th>
+        <th bgcolor="#cce4f4"><strong>Tuesday Apr 14</strong></th>
+        <th bgcolor="#cce4f4"><strong>Wednesday Apr 15</strong></th>
+        <th bgcolor="#cce4f4"><strong>Thursday Apr 16</strong></th>
       </tr>
       <tr>
         <td><span class="style1">8:00a</span></td>
