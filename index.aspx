@@ -62,7 +62,7 @@
          Lang.NET 2009 Agenda and Speakers
       </div>
       <div style="padding: 5px; color: black;">
-        The <a href="agenda.aspx">2009 Agenda</a> is now available. Talk topics and speaker biographics can be found on the <a href="speakers.aspx">Speakers</a> page.
+        The <a href="agenda.aspx">2009 Agenda</a> is now available. Talk topics and speaker bios can be found on the <a href="speakers.aspx">Speakers</a> page.
       </div>
     </div>
     

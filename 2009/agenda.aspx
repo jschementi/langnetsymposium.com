@@ -8,6 +8,13 @@
 td {
 	background-color: white;
 }
+td a, td a:link, td a:visited {
+  color: #696;
+  text-decoration: none;
+}
+td a:hover {
+  color: #9c9;
+}
 .style1 {
 	color: #006bb2;
 	font-weight: bold;
@@ -54,10 +61,10 @@ td {
 
     <table width="700" border="0" cellspacing="0" cellpadding="0" class="niceTable">
       <tr>
-        <th bgcolor="#cce4f4"><strong>Time</strong></th>
-        <th bgcolor="#cce4f4"><strong>Tuesday Apr 14</strong></th>
-        <th bgcolor="#cce4f4"><strong>Wednesday Apr 15</strong></th>
-        <th bgcolor="#cce4f4"><strong>Thursday Apr 16</strong></th>
+        <th bgcolor="#cce4f4"><b>Time</b></th>
+        <th bgcolor="#cce4f4"><b>Tuesday Apr 14</b></th>
+        <th bgcolor="#cce4f4"><b>Wednesday Apr 15</b></th>
+        <th bgcolor="#cce4f4"><b>Thursday Apr 16</b></th>
       </tr>
       <tr>
         <td><span class="style1">8:00a</span></td>
@@ -69,9 +76,9 @@ td {
       <!-- 9 AM -->
       <tr>
       	<td rowspan="4"><span class="style1">9:00a</span></td>
-      	<td rowspan="2"><strong>Keynote</strong> (30 min)<br />Jason Zander - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
-      	<td rowspan="2"><strong>JavaScript - How Fast Can You Go?</strong> (30 hr)<br />Lars Bak - <a href="http://google.com">Google</a></td>
-      	<td rowspan="2"><strong>Code Contracts</strong> (30 min)<br />Manuel Fahndrich - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
+      	<td rowspan="2"><b><a href="speakers.aspx#keynote">Keynote</a></b> (30 min)<br /><a href="speakers.aspx#jason-zander">Jason Zander</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
+      	<td rowspan="2"><b><a href="speakers.aspx#javascript">JavaScript - How Fast Can You Go?</a></b> (30 hr)<br /><a href="speakers.aspx#lars-bak">Lars Bak</a> - <a href="http://google.com">Google</a></td>
+      	<td rowspan="2"><b><a href="speakers.aspx#code-contracts">Code Contracts</a></b> (30 min)<br /><a href="speakers.aspx#manuel-fahndrich">Manuel Fahndrich</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr></tr>
       <tr>
@@ -80,9 +87,9 @@ td {
       	<td class="break">Break (15 min)</td>
       </tr>
       <tr>
-        <td rowspan="2"><strong>C# 4.0 Dynamic</strong> (30 min)<br />Mads Torgersen - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
-        <td rowspan="2"><strong>JVM Method Handles and Interface Injection</strong> (30 min)<br />John Rose - <a href="http://sun.com">Sun Microsystems</a></td>
-        <td rowspan="2"><strong>Eagle - Tcl implementation in C#</strong> (30 min)<br />Joe Mistachkin - <a href="http://www.tcl.tk/software/tcltk/" target="_blank">Tcl/Tk</a></td>
+        <td rowspan="2"><b><a href="speakers.aspx#csharp-4-dynamic">C# 4.0 Dynamic</a></b> (30 min)<br /><a href="speakers.aspx#mads-torgersen">Mads Torgersen</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
+        <td rowspan="2"><b><a href="speakers.aspx#mh-ii-jvm">JVM Method Handles and Interface Injection</a></b> (30 min)<br /><a href="speakers.aspx#john-rose">John Rose</a> - <a href="http://sun.com">Sun Microsystems</a></td>
+        <td rowspan="2"><b><a href="speakers.aspx#eagle">Eagle - Tcl implementation in C#</a></b> (30 min)<br /><a href="speakers.aspx#joe-mistachkin">Joe Mistachkin</a> - <a href="http://www.tcl.tk/software/tcltk/" target="_blank">Tcl/Tk</a></td>
       </tr>
               
       <!-- 10 AM -->
@@ -95,9 +102,9 @@ td {
       	<td class="lightning">Lightning talk (15 min)</td>
       </tr>
       <tr>
-        <td rowspan="2"><strong>Numerical Computing on the DLR</strong> (30 min)<br />Jeffrey Sax - <a href="http://www.extremeoptimization.com" target="_blank">Extreme Optimization</a></td>
-        <td rowspan="2"><strong>What's new in CLR 4 for Languages</strong> (30 min)<br />Joshua Goodman - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
-        <td rowspan="2"><strong>Modeling: Language and Data</strong> (30 min)<br />Paul Vick - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
+        <td rowspan="2"><b><a href="speakers.aspx#numerical-computing-dlr">Numerical Computing on the DLR</a></b> (30 min)<br /><a href="speakers.aspx#jeffrey-sax">Jeffrey Sax</a> - <a href="http://www.extremeoptimization.com" target="_blank">Extreme Optimization</a></td>
+        <td rowspan="2"><b><a href="speakers.aspx#clr-4">What's new in CLR 4 for Languages</a></b> (30 min)<br /><a href="speakers.aspx#joshua-goodman">Joshua Goodman</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
+        <td rowspan="2"><b><a href="speakers.aspx#modeling-part2">Modeling: Language and Data</a></b> (30 min)<br /><a href="speakers.aspx#paul-vick">Paul Vick</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr>
       </tr>
@@ -110,16 +117,16 @@ td {
         <td class="break">Break (15 min)</td>
       </tr>
       <tr>
-        <td><strong>Bootstrapping Perl 6 on .NET</strong> (15 min)<br />Matthew Wilson</td>
-        <td><strong>Concurrency in F#</strong> (15 min)<br />Amanda Laucher - <a href="http://www.sophicgroup.net" target="_blank">Sophic Group</a></td>
-        <td rowspan="2"><strong>Modeling: Transformation and Constraints</strong> (30 min)<br />David Langworthy - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
+        <td><b><a href="speakers.aspx#perl6">Bootstrapping Perl 6 on .NET</a></b> (15 min)<br /><a href="speakers.aspx#matthew-wilson">Matthew Wilson</a></a></td>
+        <td><b><a href="speakers.aspx#concurrency-in-f">Concurrency in F#</a></a></b> (15 min)<br /><a href="speakers.aspx#amanda-laucher">Amanda Laucher</a> - <a href="http://www.sophicgroup.net" target="_blank">Sophic Group</a></td>
+        <td rowspan="2"><b><a href="speakers.aspx#modeling-part1">Modeling: Transformation and Constraints</a></b> (30 min)<br /><a href="speakers.aspx#david-langworthy">David Langworthy</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr>
       	<td class="lightning">Lightning talk (15 min)</td>
-        <td rowspan="2"><strong>Reactive pattern matching in F#</strong> (30 min)<br />Tomas Petricek</td>
+        <td rowspan="2"><b><a href="speakers.aspx#reactive-pattern-matching-for-f">Reactive pattern matching for F#</a></b> (30 min)<br /><a href="speakers.aspx#tomas-petricek">Tomas Petricek</a></td>
       </tr>
       <tr>
-        <td><b>Eiffel</b> (15 min)<br />Emmanuel Stapf - <a href="http://www.eiffel.com/" target="_blank">Eiffel Software</a></td>
+        <td><b><a href="speakers.aspx#eiffel">Eiffel</a></b> (15 min)<br /><a href="speakers.aspx#emmanuel-stapf">Emmanuel Stapf</a> - <a href="http://www.eiffel.com/" target="_blank">Eiffel Software</a></td>
       	<td class="meal">Closing remarks</td>
       </tr>
       <!-- 12 N -->
@@ -136,8 +143,8 @@ td {
       <!-- 1 PM -->
       <tr>
       	<td rowspan="4"><span class="style1">1:00p</span></td>
-      	<td rowspan="2"><strong>Newspeak Hopscotch IDE</strong> (30 min)<br />Gilad Bracha - <a href="http://newspeaklanguage.org/" target="_blank">Ministry of Truth</a></td>
-      	<td rowspan="2"><b>LiveLabs Reactive Framework</b> (30 min)<br />Erik Meijer - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
+      	<td rowspan="2"><b><a href="speakers.aspx#newspeak">Newspeak Hopscotch IDE</a></b> (30 min)<br /><a href="speakers.aspx#gilad-bracha">Gilad Bracha</a> - <a href="http://newspeaklanguage.org/" target="_blank">Ministry of Truth</a></td>
+      	<td rowspan="2"><b><a href="speakers.aspx#livelabs-reactive-framework">LiveLabs Reactive Framework</a></b> (30 min)<br /><a href="speakers.aspx#erik-meijer">Erik Meijer</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       	<td rowspan="24" class="meal"><a href="http://www.sellsbrothers.com/conference/" target="_blank">DevCon</a></td>
       </tr>
       <tr></tr> 
@@ -146,8 +153,8 @@ td {
       	<td class="lightning">Lightning talk (15 min)</td>
       </tr>
       <tr>
-      	<td rowspan="2"><b>SABLE Programming Language</b> (30 min)<br />Keith Robertson - <a href="http://www.kuler.com/" target="_blank">Kuler Software Tools</a></td>
-      	<td rowspan="2"><b>Tales from the F# productization</b> (30 min)<br />Luke Hoban - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
+      	<td rowspan="2"><b><a href="speakers.aspx#sable">SABLE Programming Language</a></b> (30 min)<br /><a href="speakers.aspx#keith-robertson">Keith Robertson</a> - <a href="http://www.kuler.com/" target="_blank">Kuler Software Tools</a></td>
+      	<td rowspan="2"><b><a href="speakers.aspx#tales-from-f-productization">Tales from the F# productization</a></b> (30 min)<br /><a href="speakers.aspx#luke-hoban">Luke Hoban</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       
       <!-- 2 PM -->
@@ -159,21 +166,21 @@ td {
         <td class="break">Break (15 min)</td>
       </tr>
       <tr>
-        <td><b>Objective C#</b> (15 min)<br />Ted Neward - <a href="http://www.thoughtworks.com/" target="_blank">ThoughtWorks</a></td>
-        <td rowspan="2"><b>Common Compiler Infrastructure</b> (30 min)<br />Herman Venter - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
+        <td><b><a href="speakers.aspx#objective-csharp">Objective C#</a></b> (15 min)<br /><a href="speakers.aspx#ted-neward">Ted Neward</a> - <a href="http://www.thoughtworks.com/" target="_blank">ThoughtWorks</a></td>
+        <td rowspan="2"><b><a href="speakers.aspx#compiler-infrastructure">Common Compiler Infrastructure</a></b> (30 min)<br /><a href="speakers.aspx#herman-venter">Herman Venter</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr>
-      	<td><b>Intro to a Visual Studio Language Service</b> (15 min)<br />Ted Neward - <a href="http://www.thoughtworks.com/" target="_blank">ThoughtWorks</a></td>
+      	<td><b><a href="speakers.aspx#vs-lang-service">Intro to a Visual Studio Language Service</a></b> (15 min)<br /><a href="speakers.aspx#ted-neward">Ted Neward</a> - <a href="http://www.thoughtworks.com/" target="_blank">ThoughtWorks</a></td>
       </tr>
       
       <!-- 3 PM -->
       <tr>
       	<td rowspan="4"><span class="style1">3:00p</span></td>
-      	<td><b>Irony</b> (15 min)<br />Roman Ivantsov - <a href="http://www.tylertech.com/" target="_blank">Tyler Technologies</a></td>
+      	<td><b><a href="speakers.aspx#irony">Irony</a></b> (15 min)<br /><a href="speakers.aspx#roman-ivantsov">Roman Ivantsov</a> - <a href="http://www.tylertech.com/" target="_blank">Tyler Technologies</a></td>
       	<td class="lightning">Lightning talk (15 min)</td>
       </tr>
       <tr>
-      	<td><b>IronPython Scripting in MS Dynamics</b> (15 min)<br />Roman Ivantsov - <a href="http://www.tylertech.com/" target="_blank">Tyler Technologies</a></td>
+      	<td><b><a href="speakers.aspx#ironpython-dynamics">IronPython Scripting in MS Dynamics</a></b> (15 min)<br /><a href="speakers.aspx#roman-ivantsov">Roman Ivantsov</a> - <a href="http://www.tylertech.com/" target="_blank">Tyler Technologies</a></td>
       	<td><b><a href="speakers.aspx#jython-and-the-jvm">Jython and the JVM</a></b> (15 min)<br /><a href="speakers.aspx#frank-wierzbicki">Frank Wierzbicki</a> - <a href="http://sun.com">Sun Microsystems</a></td>
       </tr>
       <tr>
@@ -181,22 +188,22 @@ td {
         <td class="break">Break (15 min)</td>
       </tr>
       <tr>
-      	<td><b>Powershell (V2)</b> (15 min)<br />Jeffrey Snover - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
-      	<td rowspan="2"><b>Links: Web programming without tiers</b> (30 min)<br /><a href="speakers.aspx#philip-wadler">Philip Wadler</a> - <a href="http://www.ed.ac.uk/" target="_blank">University of Edinburgh</a></td>
+      	<td><b><a href="speakers.aspx#powershell-v2">Powershell (V2)</a></b> (15 min)<br /><a href="speakers.aspx#jeffrey-snover">Jeffrey Snover</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
+      	<td rowspan="2"><b><a href="speakers.aspx#links">Links: Web programming without tiers</a></b> (30 min)<br /><a href="speakers.aspx#philip-wadler">Philip Wadler</a> - <a href="http://www.ed.ac.uk/" target="_blank">University of Edinburgh</a></td>
       </tr>
       
       <!-- 4 PM -->
       <tr>
       	<td rowspan="4"><span class="style1">4:00p</span></td>
-        <td><b>Building DSLs with Powershell</b> (15 min)<br />Karl Prosser</td>
+        <td><b><a href="speakers.aspx#dsl-powershell">Building DSLs with Powershell</a></b> (15 min)<br /><a href="speakers.aspx#karl-prosser">Karl Prosser</a></td>
       </tr>
       <tr>
       	<td class="lightning">Lightning talk (15 min)</td>
       	<td class="lightning">Lightning talk (15 min)</td>
       </tr>
       <tr>
-      	<td><b>Static Analysis</b> (15 min)<br />Wesner Moise - SoftPerson, LLC</td>
-        <td><b>Are modern OO languages actually OO?</b> (15 min)<br />Jason Olson - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
+      	<td><b><a href="speakers.aspx#static-analysis">Static Analysis</a></b> (15 min)<br /><a href="speakers.aspx#wesner-moise">Wesner Moise</a> - <a href="" target="_blank">SoftPerson, LLC</a></td>
+        <td><b><a href="speakers.aspx#are-modern-oo-langs-oo">Are modern OO languages actually OO?</a></b> (15 min)<br /><a href="speakers.aspx#jason-olson">Jason Olson</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr>
         <td class="break">Break (15 min)</td>
@@ -206,11 +213,11 @@ td {
       <!-- 5 PM -->
       <tr>
       	<td rowspan="4"><span class="style1">5:00p</span></td>
-      	<td rowspan="2"><b><a href="speakers.aspx#the-second-life-cloud">The Second Life Cloud</a></b> (30 min) <br /><a href="speakers.aspx#jim-purbrick">Jim Purbrick</a> - <a href="http://lindenlab.com/">Linden Lab</a></td>
+      	<td rowspan="2"><b><a href="speakers.aspx#the-second-life-cloud">The Second Life Cloud</a></b> (30 min) <br /><a href="speakers.aspx#jim-purbrick">Jim Purbrick</a> - <a href="http://lindenlab.com/" target="_blank">Linden Lab</a></td>
       	<td class="lightning">Lightning talk (15 min)</td>
       </tr>
       <tr>
-      	<td><b>Survey of Tools and Languages</b> (15 min)<br />Keith Curtis</td>
+      	<td><b><a href="speakers.aspx#survey-of-tools-and-languages">Survey of Tools and Languages</a></b> (15 min)<br /><a href="speakers.aspx#keith-curtis">Keith Curtis</a></td>
       </tr>
       <tr>
       	<td rowspan="2" class="meal">Buses to <a href="http://www.rockbottom.com/DisplayLocationRBR.php?FKLocationID=10056" target="_blank">Rock Bottom</a></td>
