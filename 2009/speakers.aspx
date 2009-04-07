@@ -113,6 +113,11 @@ h3 {
     <h3>Eagle: Tcl Implementation in C#</h3>
     <p>Eagle (Extensible Adaptable Generalized Logic Engine) is an implementation of the Tcl scripting language for the Common Language Runtime (CLR). It is designed to be a universal scripting solution for any CLR based language, and is written completely in C#. Superficially, it is similar to Jacl, but it was written from scratch based on the design and implementation of Tcl 8.4. It provides most of the functionality of the Tcl 8.4 interpreter while borrowing selected features from Tcl 8.5 and the upcoming Tcl 8.6 in addition to adding entirely new features.</p>
     <hr />
+
+    <h2>Wesner Moise</h2>
+    <p>Wesner Moise is a founder of SoftPerson, LLC, which develops desktop applications that employ Symbolic AI. Wesner previously worked as a software developer in the Microsoft Excel group at Microsoft from 1994 to 2000 and writes a blog at wesnerm.blogs.com, before pursuing an MBA in entrepreneurial studies.</p>
+    <h3>Static Analysis</h3>
+    <p>Part research tool and part commercial application, NStatic is a static analysis tool. It uses primarily a computer algebraic approach to checking for errors, but also incorporates ideas from theorem proving, sat-solving, and constraint solving. This talk goes into the details behind the design decisions and implementation of a static analysis tool.</p>
     
     <h2>Ted Neward</h2>
     <p>Ted Neward is a Principal Consultant with ThoughtWorks, an international enterprise consulting firm. He consults, writes, presents and mentors on both the Java and .NET platforms, and has published a number of books in both areas. His current areas of study include languages, virtual machines, and large-scale enterprise systems. He resides in the Pacific Northwest</p>

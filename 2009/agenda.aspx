@@ -188,14 +188,14 @@ td {
       <!-- 4 PM -->
       <tr>
       	<td rowspan="4"><span class="style1">4:00p</span></td>
-      	<td class="lightning">Lightning talk (15 min)</td>
-      </tr>
-      <tr>
-        <td class="break">Break (15 min)</td>
-        <td class="break">Break (15 min)</td>
-      </tr>
-      <tr>
         <td><b>Building DSLs with Powershell</b> (15 min)<br />Karl Prosser</td>
+      </tr>
+      <tr>
+        <td class="break">Break (15 min)</td>
+        <td class="break">Break (15 min)</td>
+      </tr>
+      <tr>
+      	<td><b>Static Analysis</b> (15 min)<br />Wesner Moise - SoftPerson, LLC</td>
         <td><b>Are modern OO languages actually OO?</b> (15 min)<br />Jason Olson - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr>
