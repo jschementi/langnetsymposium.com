@@ -168,6 +168,11 @@ h3 {
     <p>The major problem threatening the execution of programs in a statically typed object-oriented language is the "void call" (or "null pointer dereferencing"), happening whenever the execution triggers a call x.f (...) where x is void (null). This is a major source of crashes and a grave threat to software reliability. In a recent presentation, Tony Hoare calls the introduction of the void reference his "billion dollar mistake".  In recent years, attempts to ban the void call have appeared in research languages, notably Spec#. Over the past four years, a void-safe mechanism has been included in Eiffel and included into the ISO Eiffel Standard. The mechanism integrates void safety (the guarantee of no run-time void calls) into the type system. The challenge was to obtain a total guarantee of void safety while preserving the power of expression of the language, not adding undue complication to the programming task, and retaining compatibility with existing code. In addition, the solution had to work in the .NET implementation of Eiffel. The talk describes the essentials of the solution, based on the concept of "attached type", and particularly explains the pragmatic issues that we had to address, in particular converting libraries to void safety and providing users with a smooth transition from their existing code to the full void safety of current Eiffel.</p>
     <hr />
 
+    <h2>Mads Torgersen</h2>
+    <p></p>
+    <h3>C# 4.0 Dynamic</h3>
+    <p></p>
+
     <h2>Herman Venter</h2>
     <p> Herman Venter is a Research Software Engineer in the Research In Software Engineering (RISE) group in the Microsoft Research Redmond laboratory, where he is the local programming language enthusiast and compiler writer. Prior to joining MSR, Herman worked in the Developer Division, initially on JScript .NET. After completing the JScript .NET project Herman worked in collaboration with MSR on Comega and Spec#. Since joining MSR on a full time basis, Herman has worked on Spec#, the Verifying C compiler, CCI version 2 and lately on JScript again (initially in the context of the Gazelle browser project). Before coming to Microsoft, Herman was a professor of Computer Science at the University of Port Elizabeth in South Africa.</p>
     <h3>The MSR Common Compiler Infrastructure project (CCI)</h3>

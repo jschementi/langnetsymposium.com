@@ -80,7 +80,7 @@ td {
       	<td class="break">Break (15 min)</td>
       </tr>
       <tr>
-        <td rowspan="2"><strong>C# 4.0 Dynamic</strong> (30 min)<br />Martin Maly - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
+        <td rowspan="2"><strong>C# 4.0 Dynamic</strong> (30 min)<br />Mads Torgersen - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
         <td rowspan="2"><strong>JVM Method Handles and Interface Injection</strong> (30 min)<br />John Rose - <a href="http://sun.com">Sun Microsystems</a></td>
         <td rowspan="2"><strong>Eagle - Tcl implementation in C#</strong> (30 min)<br />Joe Mistachkin - <a href="http://www.tcl.tk/software/tcltk/" target="_blank">Tcl/Tk</a></td>
       </tr>
@@ -119,7 +119,7 @@ td {
         <td rowspan="2"><strong>Reactive pattern matching in F#</strong> (30 min)<br />Tomas Petricek</td>
       </tr>
       <tr>
-      	<td class="lightning">Lightning talk (15 min)</td>
+        <td><b>Eiffel</b> (15 min)<br />Emmanuel Stapf - <a href="http://www.eiffel.com/" target="_blank">Eiffel Software</a></td>
       	<td class="meal">Closing remarks</td>
       </tr>
       <!-- 12 N -->
@@ -163,7 +163,7 @@ td {
         <td rowspan="2"><b>Common Compiler Infrastructure</b> (30 min)<br />Herman Venter - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr>
-      	<td class="lightning">Lightning talk (15 min)</td>
+      	<td><b>Intro to a Visual Studio Language Service</b> (15 min)<br />Ted Neward - <a href="http://www.thoughtworks.com/" target="_blank">ThoughtWorks</a></td>
       </tr>
       
       <!-- 3 PM -->
@@ -182,7 +182,7 @@ td {
       </tr>
       <tr>
       	<td><b>Powershell (V2)</b> (15 min)<br />Jeffrey Snover - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
-      	<td><b>Intro to a Visual Studio Language Service</b> (15 min)<br />Ted Neward - <a href="http://www.thoughtworks.com/" target="_blank">ThoughtWorks</a></td>
+      	<td class="break">Break (15 min)</td>
       </tr>
       
       <!-- 4 PM -->
@@ -207,7 +207,7 @@ td {
       <!-- 5 PM -->
       <tr>
       	<td rowspan="4"><span class="style1">5:00p</span></td>
-        <td><b>Eiffel</b> (15 min)<br />Emmanuel Stapf - <a href="http://www.eiffel.com/" target="_blank">Eiffel Software</a></td>
+        <td class="break">Break (15 min)</td>
         <td class="break">Break (15 min)</td>
       </tr>
       <tr>
