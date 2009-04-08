@@ -266,7 +266,7 @@ h3 {
     <p></p>
     <a name="jython-and-the-jvm"></a>
     <h3>Jython and the JVM</h3>
-    <p>Jython is an implementation of the high-level, dynamic, object-oriented language Python written in Java, and seamlessly integrated with the Java platform. It thus allows you to run Python on any Java platform.  I will give an overview of Jython's implementation, with a focus on the current challenges with method dispatch, and how we can use Invokedyanamic and Mehtod Handles coming in JDK 7 to make the implementation better.</p>
+    <p>Jython is a Java implementation of the high-level, dynamic, object-oriented Python programming language, which seamlessly integrates with the Java platform, allowing you to run Python on any Java platform. I will give an overview of Jython's implementation, with a focus on the current challenges regarding method dispatch, and how we can use "invokedyanamic" and "method handles" coming in JDK 7 to make the implementation better.</p>
     <hr />
 
     <a name="matthew-wilson"></a>
