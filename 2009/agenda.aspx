@@ -77,7 +77,7 @@ td a:hover {
       <tr>
       	<td rowspan="4"><span class="style1">9:00a</span></td>
       	<td rowspan="2"><b><a href="speakers.aspx#keynote">Keynote</a></b> (30 min)<br /><a href="speakers.aspx#jason-zander">Jason Zander</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
-      	<td rowspan="2"><b><a href="speakers.aspx#javascript">JavaScript - How Fast Can You Go?</a></b> (30 hr)<br /><a href="speakers.aspx#lars-bak">Lars Bak</a> - <a href="http://google.com">Google</a></td>
+      	<td rowspan="2"><b><a href="speakers.aspx#javascript">JavaScript - How Fast Can You Go?</a></b> (30 min)<br /><a href="speakers.aspx#lars-bak">Lars Bak</a> - <a href="http://google.com">Google</a></td>
       	<td rowspan="2"><b><a href="speakers.aspx#code-contracts">Code Contracts</a></b> (30 min)<br /><a href="speakers.aspx#manuel-fahndrich">Manuel Fahndrich</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr></tr>
