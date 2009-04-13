@@ -172,6 +172,14 @@ h3 {
     <p>The reactivity of an application is the key concern of the user. When writing reactive applications, we need to handle user interaction, but also spawning and completion of asynchronous operations (such as web service requests) and inputs from concurrently executing computations. In this talk, we’ll look at a simple extension for the F# language that adds generalized pattern matching to F# computation expressions. We’ll use this extension for providing easy syntax for many reactive and concurrent programming techniques. In particular, we’ll look how pattern matching on multiple sources of events makes it possible to clearly encode the logic of the application control flow. (This is a project done with Don Syme during an internship at Microsoft Research Cambridge)</p>
     <hr />
 
+    <a name="joshua-phillips"></a>
+    <h2>Joshua Phillips</h2>
+    <p>Joshua Phillips is a Program Manager on Microsoft’s Parallel Computing Platform. At present, he works on current and incubation technologies concerned with shared-state and safety in parallel computing including the coordination data structures of .NET 4.0 and Axum.</p>
+    <a name="axum"></a>
+    <h3>Axum: A .NET Coordination Language for Safe Concurrency</h3>
+    <p>Axum is an incubation project from Microsoft’s Parallel Computing Platform that aims to validate a safe and productive parallel programming model for the .NET framework.  It’s a language that builds upon the architecture of the web and the principles of isolation, agents, and message-passing to increase application safety, responsiveness, scalability and developer productivity.  Other advanced concepts we are exploring are data flow networks, asynchronous methods, and type annotations for taming side-effects.  We currently have a working prototype with basic Visual Studio integration and a few demonstrations of working code.</p>
+    <hr />
+
     <a name="jim-purbrick"></a>  
     <h2>Jim Purbrick</h2>
     <p></p>
@@ -215,9 +223,10 @@ h3 {
 
     <a name="jeffrey-snover"></a>
     <h2>Jeffrey Snover</h2>
-    <p></p>
+    <p>Jeffrey Snover is a Distinguished Engineer in the Management and Services Division, where he is an Architect for Windows Manageability and Automation. Snover is the inventor of Windows PowerShell, an object-based distributed automation engine, scripting language, and command line shell. Snover joined Microsoft in 1999 as divisional architect for the Management and Services Division, providing technical direction across Microsoft’s management technologies and products.</p>
+    <p>Prior to Microsoft, Snover has 19 years of industry experience with a focus mainly on management technologies and solutions.  He was an architect in the office of the CTO at Tivoli and a development manager at NetView. He has worked also as a consulting engineer and development manager at DEC, where he led various network and systems management projects. Snover held 8 patents prior to joining Microsoft, and has registered 30 patents since.  He is a frequent speaker at industry and research conferences on a variety of management and language topics.</p>
     <a name="powershell-v2"></a>
-    <h3>PowerShell (V2)</h3>
+    <h3>PowerShell’s Universal Code Execution Model</h3>
     <p>Universal Code Execution model – the ability to control where and how lambdas execute, Remoting (fan-out, fan-in, interactive REPL) and a mobile object model, Restricted execution environments and DSLs/DSVs, Advanced functions, stoppable pipelines, splatting and proxies, Transactional scripts Modules</p>
     <hr />
 
@@ -227,6 +236,14 @@ h3 {
     <a name="eiffel"></a>
     <h3>Eiffel: putting an end to null pointer dereferencing in a .NET language</h3>
     <p>The major problem threatening the execution of programs in a statically typed object-oriented language is the "void call" (or "null pointer dereferencing"), happening whenever the execution triggers a call x.f (...) where x is void (null). This is a major source of crashes and a grave threat to software reliability. In a recent presentation, Tony Hoare calls the introduction of the void reference his "billion dollar mistake".  In recent years, attempts to ban the void call have appeared in research languages, notably Spec#. Over the past four years, a void-safe mechanism has been included in Eiffel and included into the ISO Eiffel Standard. The mechanism integrates void safety (the guarantee of no run-time void calls) into the type system. The challenge was to obtain a total guarantee of void safety while preserving the power of expression of the language, not adding undue complication to the programming task, and retaining compatibility with existing code. In addition, the solution had to work in the .NET implementation of Eiffel. The talk describes the essentials of the solution, based on the concept of "attached type", and particularly explains the pragmatic issues that we had to address, in particular converting libraries to void safety and providing users with a smooth transition from their existing code to the full void safety of current Eiffel.</p>
+    <hr />
+
+    <a name="jack-tilford"></a>
+    <h2>Jack Tilford</h2>
+    <p></p>
+    <a name="vs2010-editor"></a>
+    <h3>The Visual Studio 2010 Editor</h3>
+    <p>A brief introduction to the new Visual Studio 2010 editor and how it can be extended.</p>
     <hr />
 
     <a name="mads-torgersen"></a>

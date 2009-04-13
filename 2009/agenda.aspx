@@ -188,7 +188,7 @@ td a:hover {
         <td class="break">Break (15 min)</td>
       </tr>
       <tr>
-      	<td><b><a href="speakers.aspx#powershell-v2">Powershell (V2)</a></b> (15 min)<br /><a href="speakers.aspx#jeffrey-snover">Jeffrey Snover</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
+      	<td><b><a href="speakers.aspx#powershell-v2">PowerShell</a></b> (15 min)<br /><a href="speakers.aspx#jeffrey-snover">Jeffrey Snover</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       	<td rowspan="2"><b><a href="speakers.aspx#links">Links: Web programming without tiers</a></b> (30 min)<br /><a href="speakers.aspx#philip-wadler">Philip Wadler</a> - <a href="http://www.ed.ac.uk/" target="_blank">University of Edinburgh</a></td>
       </tr>
       
@@ -198,11 +198,11 @@ td a:hover {
         <td><b><a href="speakers.aspx#dsl-powershell">Building DSLs with Powershell</a></b> (15 min)<br /><a href="speakers.aspx#karl-prosser">Karl Prosser</a></td>
       </tr>
       <tr>
-      	<td class="lightning">Lightning talk (15 min)</td>
+      	<td><b><a href="speakers.aspx#vs2010-editor">The Visual Studio 2010 Editor</a></b> (15 min)<br /><a href="speakers.aspx#jack-tilford">Jack Tilford</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       	<td class="lightning">Lightning talk (15 min)</td>
       </tr>
       <tr>
-      	<td><b><a href="speakers.aspx#static-analysis">Static Analysis</a></b> (15 min)<br /><a href="speakers.aspx#wesner-moise">Wesner Moise</a> - <a href="" target="_blank">SoftPerson, LLC</a></td>
+      	<td><b><a href="speakers.aspx#static-analysis">Static Analysis</a></b> (15 min)<br /><a href="speakers.aspx#wesner-moise">Wesner Moise</a> - <a href="http://wesnerm.blogs.com/about.html" target="_blank">SoftPerson, LLC</a></td>
         <td><b><a href="speakers.aspx#are-modern-oo-langs-oo">Are modern OO languages actually OO?</a></b> (15 min)<br /><a href="speakers.aspx#jason-olson">Jason Olson</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr>
@@ -214,7 +214,7 @@ td a:hover {
       <tr>
       	<td rowspan="4"><span class="style1">5:00p</span></td>
       	<td rowspan="2"><b><a href="speakers.aspx#the-second-life-cloud">The Second Life Cloud</a></b> (30 min) <br /><a href="speakers.aspx#jim-purbrick">Jim Purbrick</a> - <a href="http://lindenlab.com/" target="_blank">Linden Lab</a></td>
-      	<td class="lightning">Lightning talk (15 min)</td>
+        <td><b><a href="speakers.aspx#axum">Axum</a></b> (15 min)<br /><a href="speakers.aspx#joshua-phillips">Joshua Phillips</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr>
       	<td><b><a href="speakers.aspx#survey-of-tools-and-languages">Survey of Tools and Languages</a></b> (15 min)<br /><a href="speakers.aspx#keith-curtis">Keith Curtis</a></td>
