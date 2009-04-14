@@ -4,7 +4,6 @@
 <link href="../screen.css" rel="stylesheet" type="text/css"/>
 <title>2009 Lang.NET Symposium - Conference Agenda</title>
 <style type="text/css">
-<!--
 td {
 	background-color: white;
 }
@@ -37,7 +36,6 @@ td a:hover {
 #main {
 	background-image: none;
 }
--->
 </style>
 </head>
 
@@ -52,7 +50,7 @@ td a:hover {
   <div><a href="../location.aspx">Location</a></div>
 </div>
 
-<div><a href="../index.aspx"><img alt="2009 Lang.NET Symposium" src="../images/header.jpg" border="0"></a></div>
+<div><a href="../index.aspx"><img alt="2009 Lang.NET Symposium" src="../images/header.jpg" border="0" /></a></div>
 
 <div id="main">
 
@@ -73,6 +71,7 @@ td a:hover {
         <td class="meal">Breakfast</td>
       </tr>
       <!-- (<a href="talks/">video</a>) -->
+      
       <!-- 9 AM -->
       <tr>
       	<td rowspan="4"><span class="style1">9:00a</span></td>
@@ -97,7 +96,7 @@ td a:hover {
       	<td rowspan="4"><span class="style1">10:00a</span></td>
       </tr>
       <tr>
-      	<td class="lightning">Lightning talk (15 min)</td>
+        <td><b><a href="speakers.aspx#objective-csharp">Objective C#</a></b> (15 min)<br /><a href="speakers.aspx#ted-neward">Ted Neward</a> - <a href="http://www.thoughtworks.com/" target="_blank">ThoughtWorks</a></td>
       	<td class="lightning">Lightning talk (15 min)</td>
       	<td class="lightning">Lightning talk (15 min)</td>
       </tr>
@@ -122,23 +121,21 @@ td a:hover {
         <td rowspan="2"><b><a href="speakers.aspx#modeling-part1">Modeling: Transformation and Constraints</a></b> (30 min)<br /><a href="speakers.aspx#david-langworthy">David Langworthy</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr>
-      	<td class="lightning">Lightning talk (15 min)</td>
+      	<td><b><a href="speakers.aspx#vs-lang-service">Intro to a Visual Studio Language Service</a></b> (15 min)<br /><a href="speakers.aspx#ted-neward">Ted Neward</a> - <a href="http://www.thoughtworks.com/" target="_blank">ThoughtWorks</a></td>
         <td rowspan="2"><b><a href="speakers.aspx#reactive-pattern-matching-for-f">Reactive pattern matching for F#</a></b> (30 min)<br /><a href="speakers.aspx#tomas-petricek">Tomas Petricek</a></td>
       </tr>
       <tr>
         <td><b><a href="speakers.aspx#eiffel">Eiffel</a></b> (15 min)<br /><a href="speakers.aspx#emmanuel-stapf">Emmanuel Stapf</a> - <a href="http://www.eiffel.com/" target="_blank">Eiffel Software</a></td>
       	<td class="meal">Closing remarks</td>
       </tr>
+      
       <!-- 12 N -->
       <tr>
-      	<td rowspan="4"><span class="style1">12:00n</span></td>
-      	<td rowspan="4" class="meal">Lunch</td>
-      	<td rowspan="4" class="meal">Lunch</td>
-      	<td rowspan="4" class="meal">Lunch</td>
+      	<td><span class="style1">12:00n</span></td>
+      	<td class="meal">Lunch</td>
+      	<td class="meal">Lunch</td>
+      	<td class="meal">Lunch</td>
       </tr>
-      <tr></tr>
-      <tr></tr>
-      <tr></tr>
       
       <!-- 1 PM -->
       <tr>
@@ -147,7 +144,7 @@ td a:hover {
       	<td rowspan="2"><b><a href="speakers.aspx#livelabs-reactive-framework">LiveLabs Reactive Framework</a></b> (30 min)<br /><a href="speakers.aspx#erik-meijer">Erik Meijer</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       	<td rowspan="24" class="meal"><a href="http://www.sellsbrothers.com/conference/" target="_blank">DevCon</a></td>
       </tr>
-      <tr></tr> 
+      <tr></tr>
       <tr>
       	<td class="lightning">Lightning talk (15 min)</td>
       	<td class="lightning">Lightning talk (15 min)</td>
@@ -166,11 +163,11 @@ td a:hover {
         <td class="break">Break (15 min)</td>
       </tr>
       <tr>
-        <td><b><a href="speakers.aspx#objective-csharp">Objective C#</a></b> (15 min)<br /><a href="speakers.aspx#ted-neward">Ted Neward</a> - <a href="http://www.thoughtworks.com/" target="_blank">ThoughtWorks</a></td>
+      	<td class="lightning">Lightning talk (15 min)</td>
         <td rowspan="2"><b><a href="speakers.aspx#compiler-infrastructure">Common Compiler Infrastructure</a></b> (30 min)<br /><a href="speakers.aspx#herman-venter">Herman Venter</a> - <a href="http://microsoft.com" target="_blank">Microsoft</a></td>
       </tr>
       <tr>
-      	<td><b><a href="speakers.aspx#vs-lang-service">Intro to a Visual Studio Language Service</a></b> (15 min)<br /><a href="speakers.aspx#ted-neward">Ted Neward</a> - <a href="http://www.thoughtworks.com/" target="_blank">ThoughtWorks</a></td>
+      	<td class="lightning">Lightning talk (15 min)</td>
       </tr>
       
       <!-- 3 PM -->
