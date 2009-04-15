@@ -3,6 +3,7 @@
 <head>
 <link href="../screen.css" rel="stylesheet" type="text/css"/>
 <title>2009 Lang.NET Symposium - Conference Agenda</title>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
 <style type="text/css">
 td {
 	background-color: white;
