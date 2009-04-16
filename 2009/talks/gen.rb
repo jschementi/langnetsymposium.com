@@ -235,7 +235,8 @@ function StartWithParent(mediainfoId, parentId, appId) {
 
 function StartPlayer(mediainfoId, parentId) {
     this._hostname = EePlayer.Player._getUniqueName("xamlHost");
-    Silverlight.createObjectEx( { source: 'Player/player.xaml', 
+    // NOTE: player uses "xml" extension since server doesn't support xaml mime-type
+    Silverlight.createObjectEx( { source: 'Player/player.xml', 
                                   parentElement: $get(parentId ||"divPlayer_0"), 
                                   id: this._hostname, 
                                   properties: { 
