@@ -136,7 +136,7 @@ hr {
 	<div id="content">
 		<h1>2009 Talks </h1>
 		
-		<em>Note: the videos requre Silverlight 1.0, which is available <a href="http://www.microsoft.com/silverlight/downloads.aspx">here</a>.</em>
+    <em>Note: the video links requre Silverlight, which is available <a href="http://www.microsoft.com/silverlight/downloads.aspx">here</a>.<br />The "wmv" links are for downloading the video.</em>
 
 <div id="videos">
   #{yield}

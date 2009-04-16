@@ -54,7 +54,7 @@ h3 {
     <h2>Gilad Bracha</h2>
     <p>Gilad Bracha is the creator of the Newspeak programming language. Previously, he was a Distinguished Engineer at Cadence, and a Computational Theologist and Distinguished Engineer at Sun. He is co-author of the Java Language Specification, and a researcher in the area of object-oriented programming languages. Prior to joining Sun, he worked on Strongtalk, the Animorphic Smalltalk System. He received his  B.Sc in Mathematics and Computer Science from Ben Gurion University in Israel and a Ph.D. in Computer Science from the University of Utah.</p>
     <a name="newspeak"></a>
-    <h3>Newspeak's Hopscotch IDE</h3>
+    <h3>Newspeak's Hopscotch IDE (<a href="talks/08-GiladBracha-Hopscotch.html">video</a>)</h3>
     <p>Hopscotch is the name of both Newspeak's IDE, and the GUI application framework underlying it. Hopscotch is based on a notion of fragment combinators that provide an internal DSL for GUIs, embedded in Newspeak. The framework supports a navigation paradigm that combines advantages of web based and traditional GUIs. We'll demonstrate all this via the Hopscotch IDE and show\ how it benefits from being implemented in a dynamic language</p>
     <hr />
 
@@ -85,6 +85,13 @@ h3 {
     <h3>What’s New in CLR 4 for Languages</h3>
     <p>Over 20 different programming languages run on top of the Common Language Runtime (CLR), including recent additions like F#, IronPython and IronRuby.  We continue to innovate on this core platform, adding features both for developers, and for language implementers. Our newest release, CLR 4, is our largest release since 2005.  There are too many new features to cover in a short talk, so I’ll focus on those that will be most interesting to language designers.  First, we added several new types, including Tuple, BigInteger, and Complex.  Tuple is a good example of a feature that seems very simple, but becomes interesting when you have to design it to work across different languages that may or may not natively support the type. Fortunately, those few types and a few minor improvements to the runtime were all that we needed to do to support functional languages like F#.  We’ve also made changes to our threadpool that make it better at taking advantage of multiple processors – this should help developers of parallel languages.  We made a large number of smaller changes, including a new garbage collection mode, Background GC, that reduces latency.  There is a new exception type, Corrupted State Exceptions, designed to prevent a common developer mistake.  And we’ve added support for type equivalence across libraries; in combination with related work, this makes the experience of deploying COM addins much lower cost.</p>
     <hr />
+
+    <a name="anders-hejlsberg"></a>
+    <h2>Anders Hejlsberg</h2>
+    <p></p>
+    <a name="co-contra-variance"></a>
+    <h3>Co- and Contra-variance (<a href="talks/11-AndersHejlsberg-LightningCovariantContravariant.html">video</a>)</h3>
+    <p></p>
     
     <a name="luke-hoban"></a>
     <h2>Luke Hoban</h2>
@@ -121,6 +128,13 @@ h3 {
     <p>F# is Microsoft’s multi-paradigm language which sets out to solve more functional programming types of problems in the .Net ecosystem. Perhaps you’ve seen some of the basic syntax which although interesting, it’s now time to check out what people will actually be doing with the language. I’ve been working with a client to implement F# for handling more than factorials and Fibonacci numbers. I’ll show how to do concurrent programming in an actual enterprise, with legacy code interaction and all.</p>
     <hr />
 
+    <a name="tim-mcfarlaine"></a>
+    <h2>Tim McFarlaine</h2>
+    <p></p>
+    <a name="tycho"></a>
+    <h3>Tycho (<a href="talks/10-TimMacFarlaine-LightningTycho.html">video</a>)</h3>
+    <p></p>
+
     <a name="erik-meijer"></a>
     <h2>Erik Meijer</h2>
     <p></p>
@@ -149,10 +163,11 @@ h3 {
     <h2>Ted Neward</h2>
     <p>Ted Neward is a Principal Consultant with ThoughtWorks, an international enterprise consulting firm. He consults, writes, presents and mentors on both the Java and .NET platforms, and has published a number of books in both areas. His current areas of study include languages, virtual machines, and large-scale enterprise systems. He resides in the Pacific Northwest</p>
     <a name="objective-csharp"></a>
-    <h3>Objective C#</h3>
+    <h3>Objective C# (<a href="talks/03-TedNeward-ObjectiveCSharp.html">video</a>)</h3>
+
     <p>I want to examine what the symposium members would imagine a language mixing the message-passing nature of Objective-C with the underlying C# language would look like, and (hopefully) present the results the following year, at Lang.NET 2010.</p>
     <a name="vs-lang-service"></a>
-    <h3>Intro to a Visual Studio Language Service</h3>
+    <h3>Intro to a Visual Studio Language Service (<a href="talks/06-TedNeward-VSLangService.html">video</a>)</h3>
     <p>“Busy Lang.NET Developer’s Intro to a Visual Studio Language Service” In this quick talk, I’ll go over the basic details of creating a Visual Studio Language Service, using a simple example as a backdrop and hopefully inspiring attendees to take that next step around their language by integrating it inside of VS.</p>
     <hr />
     
@@ -184,7 +199,7 @@ h3 {
     <h2>Jim Purbrick</h2>
     <p></p>
     <a name="the-second-life-cloud"></a>
-    <h3>The Second Life Cloud: Running 10M Untrusted, User Generated Applications On The CLI In A Virtual World the Size Of Denmark</h3>
+    <h3>The Second Life Cloud: Running 10M Untrusted, User Generated Applications On The CLI In A Virtual World the Size Of Denmark (<a href="talks/17-JimPurbrick-SecondLife.html">video</a>)</h3>
     <p>Since we talked about scripting in Second Life at Lang.NET 2006 the world has grown from 900 to 1800 square kilometers, peak concurrency has grown from under 10,000 to over 86,000 and 10M of the 68M running user generated, untrusted scripts have been converted to run on the CLI.</p>
     <p>Over the same period plaforms like Google's App Engine have made running sandboxed, untrusted code in the cloud a hot topic. This talk will discuss the issues inherent in building a sandbox for untrusted code using the CLI and the solutions we implemented for Second Life.</p>
     <hr />
@@ -193,7 +208,7 @@ h3 {
     <h2>Karl Prosser</h2>
     <p></p>
     <a name="dsl-powershell"></a>
-    <h3>Building DSLs and language enhancements with PowerShell</h3>
+    <h3>Building DSLs and language enhancements with PowerShell (<a href="talks/15-KarlProsser-PowershellDSL.html">video</a>)</h3>
     <p></p>
     <hr />
 
@@ -201,7 +216,7 @@ h3 {
     <h2>Keith Robertson</h2>
     <p>Mr. Robertson began consulting in 1992 on Smalltalk projects. In 2000 he switched to EAI consulting, using Java with extreme reluctance. He’s always enjoyed developing programmer tools, such as reusable frameworks and compilers, and he hopes to do it for a living when he grows up. Mr. Robertson holds a Master’s Degree in Computer Science.</p>
     <a name="sable"></a>
-    <h3>The SABLE Programming Language</h3>
+    <h3>The SABLE Programming Language (<a href="talks/09-KeithRobertson-Sable.html">video</a>)</h3>
     <p>Smalltalk has been praised as the best language expression of OO concepts, and many rank it as a favorite language, but the C-based languages “won.” Notably, Java rode to stardom with its brilliant marketing as “the language of the Internet.” Why didn’t Smalltalk fill that role? Could it have? This talk will briefly discuss the drivers that led to the development of SABLE, a Smalltalk-derived language which supports all features of .NET with C# performance. It will describe the major language features: Smalltalk readability with type safety, Nil tracking, bidirectional type inference, inlined functions, #Symbol usage, and MyType.</p>
     <hr />
 
@@ -217,7 +232,7 @@ h3 {
     <h2>Jeffrey Sax</h2>
     <p>Jeffrey Sax has been writing numerical software for nearly two decades. He is founder and president of Extreme Optimization, a provider of numerical libraries for the .NET platform. He has degrees in numerical computing and theoretical physics.</p>
     <a name="numerical-computing-dlr"></a>
-    <h3>Numerical Computing with the DLR</h3>
+    <h3>Numerical Computing with the DLR (<a href="talks/04-JeffreySax-NumericalComputingDLR.html">video</a>)</h3>
     <p>Dynamic languages are expressive and need minimal specifications. These advantages make them ideally suited for interactive technical computing environments. The languages in Mathematica®, Matlab®, GNU Octave, R and others are all dynamic. In this talk we will explore M#, an array based language built on top of the Dynamic Language Runtime. We will discuss some of the challenges and pleasant surprises we encountered during its development.</p>
     <hr />
 
@@ -226,7 +241,7 @@ h3 {
     <p>Jeffrey Snover is a Distinguished Engineer in the Management and Services Division, where he is an Architect for Windows Manageability and Automation. Snover is the inventor of Windows PowerShell, an object-based distributed automation engine, scripting language, and command line shell. Snover joined Microsoft in 1999 as divisional architect for the Management and Services Division, providing technical direction across Microsoft’s management technologies and products.</p>
     <p>Prior to Microsoft, Snover has 19 years of industry experience with a focus mainly on management technologies and solutions.  He was an architect in the office of the CTO at Tivoli and a development manager at NetView. He has worked also as a consulting engineer and development manager at DEC, where he led various network and systems management projects. Snover held 8 patents prior to joining Microsoft, and has registered 30 patents since.  He is a frequent speaker at industry and research conferences on a variety of management and language topics.</p>
     <a name="powershell-v2"></a>
-    <h3>PowerShell’s Universal Code Execution Model</h3>
+    <h3>PowerShell’s Universal Code Execution Model (<a href="talks/14-JeffreySnover-Powershell.html">video</a>)</h3>
     <p>Universal Code Execution model – the ability to control where and how lambdas execute, Remoting (fan-out, fan-in, interactive REPL) and a mobile object model, Restricted execution environments and DSLs/DSVs, Advanced functions, stoppable pipelines, splatting and proxies, Transactional scripts Modules</p>
     <hr />
 
@@ -234,7 +249,7 @@ h3 {
     <h2>Emmanuel Stapf</h2>
     <p>Emmanuel Stapf joined Eiffel Software in 1996 and has risen through the ranks to become Eiffel's Lead Engineer. He is responsible for providing direction to the software development team and shaping the future of the Eiffel language. He has been in charge of the design and implementation of a number of major components of the EiffelStudio environment and he has led the work on having .NET as one of the supported platform for the Eiffel compiler. Emmanuel is an active member of the ECMA TC49-TG3 (CLI) and ECMA TC49-TG4 (Eiffel) standardization committee</p>
     <a name="eiffel"></a>
-    <h3>Eiffel: putting an end to null pointer dereferencing in a .NET language</h3>
+    <h3>Eiffel: putting an end to null pointer dereferencing in a .NET language (<a href="talks/07-EmmanuelStapf-Eiffel.html">video</a>)</h3>
     <p>The major problem threatening the execution of programs in a statically typed object-oriented language is the "void call" (or "null pointer dereferencing"), happening whenever the execution triggers a call x.f (...) where x is void (null). This is a major source of crashes and a grave threat to software reliability. In a recent presentation, Tony Hoare calls the introduction of the void reference his "billion dollar mistake".  In recent years, attempts to ban the void call have appeared in research languages, notably Spec#. Over the past four years, a void-safe mechanism has been included in Eiffel and included into the ISO Eiffel Standard. The mechanism integrates void safety (the guarantee of no run-time void calls) into the type system. The challenge was to obtain a total guarantee of void safety while preserving the power of expression of the language, not adding undue complication to the programming task, and retaining compatibility with existing code. In addition, the solution had to work in the .NET implementation of Eiffel. The talk describes the essentials of the solution, based on the concept of "attached type", and particularly explains the pragmatic issues that we had to address, in particular converting libraries to void safety and providing users with a smooth transition from their existing code to the full void safety of current Eiffel.</p>
     <hr />
 
@@ -250,7 +265,7 @@ h3 {
     <h2>Mads Torgersen</h2>
     <p></p>
     <a name="csharp-4-dynamic"></a>
-    <h3>C# 4.0 Dynamic</h3>
+    <h3>C# 4.0 Dynamic (<a href="talks/02-MadsTorgersen-CSharp4Dynamic.html">video</a>)</h3>
     <p></p>
     <hr />
 
@@ -290,7 +305,7 @@ h3 {
     <h2>Matthew Wilson</h2>
     <p>Matthew is a programmer and language enthusiast.  He works as a contractor on both .Net and Perl software.</p>
     <a name="perl6"></a>
-    <h3>Bootstrapping Perl 6 [on a new language/VM] on .Net</h3>
+    <h3>Bootstrapping Perl 6 [on a new language/VM] on .Net (<a href="talks/05-MatthewWilson-Perl.html">video</a>)</h3>
     <p>Survey of progress implementing a Perl 6 interpreter targeting .Net.  Survey of the (surprise!) new language/VM (running on top of .Net) used to implement the ongoing Perl 6 implementation.</p>
     <hr />
     
@@ -298,7 +313,7 @@ h3 {
     <h2>Jason Zander</h2>
     <p></p>
     <a name="keynote"></a>
-    <h3>Keynote</h3>
+    <h3>Keynote (<a href="talks/01-JasonZander-Keynote.html">video</a>)</h3>
     <p></p>
     
 		<div style="text-align: right; border-top: 1px solid #bbb; margin-top: 10px;">

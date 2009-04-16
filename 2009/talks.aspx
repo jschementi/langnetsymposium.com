@@ -63,7 +63,6 @@ hr {
 
 <div id="nav">
   <div><a href="../overview.aspx">Overview</a></div>
-
   <div><a href="../agenda.aspx">Agenda</a> </div>
   <div><a href="../speakers.aspx">Speakers</a> </div>
   <div><a href="../location.aspx">Location</a></div>
@@ -76,7 +75,12 @@ hr {
 	<div id="content">
 		<h1>2009 Talks </h1>
 		
-		<em>Note: the videos requre Silverlight 1.0, which is available <a href="http://www.microsoft.com/silverlight/downloads.aspx">here</a>.</em>
+		
+    <div style="margin-bottom: 10px; border: 5px solid #b00; padding: 10px; color: #b00; font-size: 14px; text-align: center;">
+      These are only the talks from 4/14; more talks to come.
+    </div>
+		
+		<em>Note: the video links requre Silverlight, which is available <a href="http://www.microsoft.com/silverlight/downloads.aspx">here</a>.<br />The "wmv" links are for downloading the video.</em>
 
 <div id="videos">
   <img src="talks/Images/01-JasonZander-Keynote_Thumb.jpg" width:"66" height="50" />
