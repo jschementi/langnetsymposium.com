@@ -1,0 +1,25 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition="'$(Configuration)'==''">Debug</Configuration>
+    <DefaultClrNameSpace>Player</DefaultClrNameSpace>
+    <AssemblyName>Player</AssemblyName>
+    <OutputPath>bin\$(Configuration)\</OutputPath>
+    <ApplicationVersion>1.0.0.*</ApplicationVersion>
+    <ApplicationRevision>0</ApplicationRevision>
+    <AlwaysCompileMarkupFilesInSeparateDomain>false</AlwaysCompileMarkupFilesInSeparateDomain>
+    <OutputType>Library</OutputType>
+    <StartPageUrl>default.html</StartPageUrl>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <None Include="Default.html" />
+    <None Include="MicrosoftAjax.js" />
+    <None Include="Silverlight.js" />
+    <None Include="BasePlayer.js" />
+    <None Include="PlayerStrings.js" />
+    <None Include="player.js" />
+    <None Include="StartPlayer.js" />
+    <Page Include="player.xaml" />
+  </ItemGroup>
+</Project>
