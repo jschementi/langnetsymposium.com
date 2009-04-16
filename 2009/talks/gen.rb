@@ -19,14 +19,14 @@ VIDEO_URL = "http://download.microsoft.com/download"
 require 'find'
 
 def create_index
-  file = File.open("index.html", "w") if !$DEBUG_MODE
+  file = File.open("../talks.aspx", "w") if !$DEBUG_MODE
   dputs file, (index_html{ 
     $videos.inject([]) do |a, v|
       a << gen_link(v)
     end.join('')
   })
   file.close if !$DEBUG_MODE
-  puts "Created index.html"
+  puts "Created ../talks.aspx"
 end
 
 def create_html_files
@@ -61,7 +61,7 @@ def index_html
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<link href="../../screen.css" rel="stylesheet" type="text/css"/>
+<link href="../screen.css" rel="stylesheet" type="text/css"/>
 <title>2009 Lang.NET Symposium - Talks</title>
 <style type="text/css">
 <!--
@@ -122,14 +122,14 @@ hr {
 <div id="wrapper">
 
 <div id="nav">
-  <div><a href="../../overview.aspx">Overview</a></div>
+  <div><a href="../overview.aspx">Overview</a></div>
 
-  <div><a href="../../agenda.aspx">Agenda</a> </div>
-  <div><a href="../../speakers.aspx">Speakers</a> </div>
-  <div><a href="../../location.aspx">Location</a></div>
+  <div><a href="../agenda.aspx">Agenda</a> </div>
+  <div><a href="../speakers.aspx">Speakers</a> </div>
+  <div><a href="../location.aspx">Location</a></div>
 </div>
 
-<div><a href="../../index.aspx"><img alt="2009 Lang.NET Symposium" src="../../images/header.jpg" border="0"></a></div>
+<div><a href="../index.aspx"><img alt="2009 Lang.NET Symposium" src="../images/header.jpg" border="0"></a></div>
 
 <div id="main">
 
@@ -159,8 +159,8 @@ end
 
 def gen_link(name)
   buf = <<-STR
-<img src="#{thumbnail_url(name)}" width:"66" height="50" />
-<a href="#{name}.html">#{name}</a>
+<img src="talks/#{thumbnail_url(name)}" width:"66" height="50" />
+<a href="talks/#{name}.html">#{name}</a>
 <a href="#{video_url(name)}">wmv</a>
 <hr />
 STR
