@@ -139,6 +139,10 @@ hr {
 <a href="talks/15-KarlProsser-PowershellDSL.html">15-KarlProsser-PowershellDSL</a>
 <a href="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/15-KarlProsser-PowershellDSL.wmv">wmv</a>
 <hr />
+<img src="talks/Images/16-JackTilford-VS2010Editor_Thumb.jpg" width:"66" height="50" />
+<a href="talks/16-JackTilford-VS2010Editor.html">16-JackTilford-VS2010Editor</a>
+<a href="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/16-JackTilford-VS2010Editor.wmv">wmv</a>
+<hr />
 <img src="talks/Images/17-JimPurbrick-SecondLife_Thumb.jpg" width:"66" height="50" />
 <a href="talks/17-JimPurbrick-SecondLife.html">17-JimPurbrick-SecondLife</a>
 <a href="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/17-JimPurbrick-SecondLife.wmv">wmv</a>
@@ -209,19 +213,19 @@ hr {
 <hr />
 <img src="talks/Images/34-ManuelFahndrich-CodeContracts_Thumb.jpg" width:"66" height="50" />
 <a href="talks/34-ManuelFahndrich-CodeContracts.html">34-ManuelFahndrich-CodeContracts</a>
-<a href="http://download.microsoft.com/download/fake/34-ManuelFahndrich-CodeContracts.wmv">wmv</a>
+<a href="http://download.microsoft.com/download/1/9/0/19081D0E-C8F7-4934-A323-34FAF3B27F1B/34-ManuelFahndrich-CodeContracts.wmv">wmv</a>
 <hr />
 <img src="talks/Images/35-JoeMistachkin-Eagle_Thumb.jpg" width:"66" height="50" />
 <a href="talks/35-JoeMistachkin-Eagle.html">35-JoeMistachkin-Eagle</a>
-<a href="http://download.microsoft.com/download/fake/35-JoeMistachkin-Eagle.wmv">wmv</a>
+<a href="http://download.microsoft.com/download/1/9/0/19081D0E-C8F7-4934-A323-34FAF3B27F1B/35-JoeMistachkin-Eagle.wmv">wmv</a>
 <hr />
 <img src="talks/Images/36-PeliDeHalleux-Pex_Thumb.jpg" width:"66" height="50" />
 <a href="talks/36-PeliDeHalleux-Pex.html">36-PeliDeHalleux-Pex</a>
-<a href="http://download.microsoft.com/download/fake/36-PeliDeHalleux-Pex.wmv">wmv</a>
+<a href="http://download.microsoft.com/download/1/9/0/19081D0E-C8F7-4934-A323-34FAF3B27F1B/36-PeliDeHalleux-Pex.wmv">wmv</a>
 <hr />
 <img src="talks/Images/37-PaulVickDavidLangworthy-M_Thumb.jpg" width:"66" height="50" />
 <a href="talks/37-PaulVickDavidLangworthy-M.html">37-PaulVickDavidLangworthy-M</a>
-<a href="http://download.microsoft.com/download/fake/37-PaulVickDavidLangworthy-M.wmv">wmv</a>
+<a href="http://download.microsoft.com/download/1/9/0/19081D0E-C8F7-4934-A323-34FAF3B27F1B/37-PaulVickDavidLangworthy-M.wmv">wmv</a>
 <hr />
 
 </div>

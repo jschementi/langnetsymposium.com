@@ -6,7 +6,7 @@
 private void Page_Load(object sender, System.EventArgs e)
 {
   Response.Status = "301 Moved Permanently";
-  Response.AddHeader("Location", "2008/talks.aspx");
+  Response.AddHeader("Location", "2009/talks.aspx");
 }
 </script> 
 

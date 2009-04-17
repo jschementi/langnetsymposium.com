@@ -46,7 +46,7 @@ h3 {
     <h2>Lars Bak</h2>
     <p>Lars is a software engineer working for Google in Aarhus Denmark. All he has done the last 23 years is implementing virtual machines for object-oriented languages. Here are some: Beta, Self, Strongtalk, Sun's HotSpot and CLDC HI, OOVM Smalltalk, and V8. Lars joined Google in the fall of 2006 and he has been responsible for V8.</p>
     <a name="javascript"></a>
-    <h3>JavaScript - How Fast Can You Go?</h3>
+    <h3>JavaScript - How Fast Can You Go? (<a href="talks/18-LarsBak-JavaScript.html">video</a>)</h3>
     <p>Scalability and performance are the big challenges when implementing a JavaScript engine for a web browser.  We have addressed this in the V8 engine used in Google Chrome by applying classic object-oriented implementation techniques such as on-the-fly code generation, inline caching, precise generational garbage collection, and snapshotting.  This talk will discuss the techniques, the lessons learned, and give an outlook on how far we can push scalability and performance for JavaScript.</p>
     <hr />
 
@@ -62,7 +62,7 @@ h3 {
     <h2>Keith Curtis</h2>
     <p>I worked as an SDE at Microsoft for 11 years, left in 2004, accidentally discovered Linux, and just finished a book about the future of software, which ended up talking a lot about tools. </p>
     <a name="survey-of-tools-and-languages"></a>
-    <h3>Survey of Tools and Languages</h3>
+    <h3>Survey of Tools and Languages (<a href="talks/33-KeithCurtis-SurveyOfToolsAndLanguages.html">video</a>)</h3>
     <p>This light talk will start with a brief proof of why C and C++ must be killed, an idea not widespread in the software community. Then it will give a survey of the state of the important languages in the Linux community.</p>
     <hr />
     
@@ -70,7 +70,7 @@ h3 {
     <h2>Manuel Fahndrich</h2>
     <p>Manuel Fahndrich is a senior researcher at Microsoft. He is passionate about code analysis techniques and getting tools onto programmer's desktops. Before working on Code Contracts, he was designing and implementing the Sing# programming language for Singularity. Prior projects include Spec#, the Standard Annotation Language (SAL), Fugue, and Vault.</p>
     <a name="code-contracts"></a>
-    <h3>Code Contracts: Specification and Verification for .NET Developers</h3>
+    <h3>Code Contracts: Specification and Verification for .NET Developers (<a href="talks/34-ManuelFahndrich-CodeContracts.html">video</a>)</h3>
     <p>Over the last few years Microsoft Research has been working on bringing simple and pragmatic program specification, aka Code Contracts, to programming languages targeting the Microsoft .NET platform.  Contracts document programming assumptions in a machine discoverable form. Contracts are targeted at the general developer, not the verification enthusiast. It is thus important to use a single form of specifications that meets three simultaneous goals:</p>
     <p>First and foremost, contracts serve as documentation. They must be as readable as possible.</p>
     <p>Second, contracts should be executable. This motivates writing specifications for testing and immediate perceived benefit, without consideration of static verification.</p>
@@ -82,8 +82,15 @@ h3 {
     <h2>Joshua Goodman</h2>
     <p>Joshua Goodman is Group Program Manager for the Common Language Runtime team.  Joshua has had a large variety of roles.  Before Microsoft he was a software developer, followed by years at Harvard where he earned a Ph.D. in the wrong kind of languages (natural languages).  He joined Microsoft Research where he studied everything from language modeling (the wrong kind again) to spam filtering to machine learning.  Currently, he manages people who manage people who program manage people who write programs to help people write programs to help people write programs.</p>
     <a name="clr4"></a>
-    <h3>What’s New in CLR 4 for Languages</h3>
+    <h3>What’s New in CLR 4 for Languages (<a href="talks/20-JoshuaGoodman-CLR.html">video</a>)</h3>
     <p>Over 20 different programming languages run on top of the Common Language Runtime (CLR), including recent additions like F#, IronPython and IronRuby.  We continue to innovate on this core platform, adding features both for developers, and for language implementers. Our newest release, CLR 4, is our largest release since 2005.  There are too many new features to cover in a short talk, so I’ll focus on those that will be most interesting to language designers.  First, we added several new types, including Tuple, BigInteger, and Complex.  Tuple is a good example of a feature that seems very simple, but becomes interesting when you have to design it to work across different languages that may or may not natively support the type. Fortunately, those few types and a few minor improvements to the runtime were all that we needed to do to support functional languages like F#.  We’ve also made changes to our threadpool that make it better at taking advantage of multiple processors – this should help developers of parallel languages.  We made a large number of smaller changes, including a new garbage collection mode, Background GC, that reduces latency.  There is a new exception type, Corrupted State Exceptions, designed to prevent a common developer mistake.  And we’ve added support for type equivalence across libraries; in combination with related work, this makes the experience of deploying COM addins much lower cost.</p>
+    <hr />
+
+    <a name="peli-de-halleux"></a>
+    <h2>Peli de Halleux</h2>
+    <p></p>
+    <h3>Pex (<a href="talks/36-PeliDeHalleux-Pex.html">video</a>)</h3>
+    <p></p>
     <hr />
 
     <a name="anders-hejlsberg"></a>
@@ -92,12 +99,13 @@ h3 {
     <a name="co-contra-variance"></a>
     <h3>Co- and Contra-variance (<a href="talks/11-AndersHejlsberg-LightningCovariantContravariant.html">video</a>)</h3>
     <p></p>
+    <hr />
     
     <a name="luke-hoban"></a>
     <h2>Luke Hoban</h2>
     <p></p>
     <a name="tales-from-f-productization"></a>
-    <h3>Tales from the F# productization</h3>
+    <h3>Tales from the F# productization (<a href="talks/25-LukeHoban-FSharpProductization.html">video</a>)</h3>
     <p>This talk touches on some of the fun, challenging and unexpected experiences we’ve had during the ‘productization’ of F# over the last 18 months.</p>
     <hr />
     
@@ -105,10 +113,10 @@ h3 {
     <h2>Roman Ivantsov</h2>
     <p>Roman Ivantsov is a software developer with Tyler Technologies with more than 20 years of experience in industrial software development. He is a coordinator for Irony open-source project.</p>
     <a name="irony"></a>
-    <h3>Irony - .NET Language Implementation Kit</h3>
+    <h3>Irony - .NET Language Implementation Kit (<a href="talks/12-RomanIvantsov-Irony.html">video</a>)</h3>
     <p><a href="http://irony.codeplex.com" target="_blank">Irony</a> is an innovative open-source project with the purpose of creating an integrated, “all-in-c#” framework for implementing languages on .NET platform. The presenter will describe core Irony features that can make it a tool of choice for a wide range of tasks - from building industrial-strength compilers to in-house DSL implementations. The speaker will talk about current project status, latest advancements,  future plans, and will present other projects that use Irony technology.</p>
     <a name="ironpython-dynamics"></a>
-    <h3>Using IronPython 2.0 as a script engine in MS Dynamics AX</h3>
+    <h3>Using IronPython 2.0 as a script engine in MS Dynamics AX (<a href="talks/13-RomanIvantsov-IronPythonMSDynamic.html">video</a>)</h3>
     <p>Microsoft Dynamics AX is a complete ERP solution for a wide range of commercial industries. Tyler Technologies and Microsoft are collaboratively developing a new version of Dynamics AX specifically geared for the public sector.  One important requirement was a flexible and easy-to-use facility for calculating fees and charges for various services provided by local governments. The feature team implemented it using IronPython as an embedded scripting engine, allowing end-users to create simple Python scripts that would be invoked automatically when a user creates an invoice for services. The presenter will discuss his experience during the implementation and demonstrate the feature using the Dynamics AX application.</p>
     <hr />
     
@@ -116,7 +124,7 @@ h3 {
     <h2>David Langworthy</h2>
     <p></p>
     <a name="modeling-part1"></a>
-    <h3>Modeling: Transformation and Constraints</h3>
+    <h3>Modeling: Transformation and Constraints (<a href="talks/37-PaulVickDavidLangworthy-M.html">video</a>)</h3>
     <p>This talk introduces all the concepts of the Oslo Modeling Language: M.  You will see how to create a language for a domain.  Shape the resulting data into a useful form.  Send the data to XML, CLR, and SQL.  Then write transformations and constraints. </p>
     <hr />
     
@@ -124,7 +132,7 @@ h3 {
     <h2>Amanda Laucher</h2>
     <p></p>
     <a name="concurrency-in-f"></a>
-    <h3>Concurrency in F#</h3>
+    <h3>Concurrency in F# (<a href="talks/21-AmanderLauter-FSharpConcurrency.html">video</a>)</h3>
     <p>F# is Microsoft’s multi-paradigm language which sets out to solve more functional programming types of problems in the .Net ecosystem. Perhaps you’ve seen some of the basic syntax which although interesting, it’s now time to check out what people will actually be doing with the language. I’ve been working with a client to implement F# for handling more than factorials and Fibonacci numbers. I’ll show how to do concurrent programming in an actual enterprise, with legacy code interaction and all.</p>
     <hr />
 
@@ -139,7 +147,7 @@ h3 {
     <h2>Erik Meijer</h2>
     <p></p>
     <a name="livelabs-reactive-framework"></a>
-    <h3>LiveLabs Reactive Framework</h3>
+    <h3>LiveLabs Reactive Framework (<a href="talks/23-ErikMeijer-LiveLabsReactiveFramework.html">video</a>)</h3>
     <p>According to Wikipedia, “Abstraction is the process or result of generalization by reducing the information content of a concept or an observable phenomenon, typically in order to retain only information which is relevant for a particular purpose.” Unfortunately, in the past 50 years or so of Computer Science, we have abstracted from the wrong details. In particular, the mainstream interactive, imperative sequential computational model takes a deep dependency on strict evaluation order, exemplified by the evil semicolon “;”, thereby ignoring latency and to a large extent the possibility of failure (which can be considered as a form of latency). Now that effectively all computation has become reactive distributed and concurrent, the traditional sequential imperative programming abstraction has run out of steam as a model for the top-level composition of programs and seriously hampers future progress in our field. </p>
     <hr />
 
@@ -147,7 +155,7 @@ h3 {
     <h2>Joe Mistachkin</h2>
     <p>Joe Mistachkin (pronounced "miss-tash-kin") is a software engineer and one of the maintainers of Tcl/Tk.  He is also the author of the TclBridge component and the Eagle scripting language.  He has been working in the software industry since 1994.</p>
     <a name="eagle"></a>
-    <h3>Eagle: Tcl Implementation in C#</h3>
+    <h3>Eagle: Tcl Implementation in C# (<a href="talks/35-JoeMistachkin-Eagle.html">video</a>)</h3>
     <p>Eagle (Extensible Adaptable Generalized Logic Engine) is an implementation of the Tcl scripting language for the Common Language Runtime (CLR). It is designed to be a universal scripting solution for any CLR based language, and is written completely in C#. Superficially, it is similar to Jacl, but it was written from scratch based on the design and implementation of Tcl 8.4. It provides most of the functionality of the Tcl 8.4 interpreter while borrowing selected features from Tcl 8.5 and the upcoming Tcl 8.6 in addition to adding entirely new features.</p>
     <hr />
 
@@ -155,7 +163,7 @@ h3 {
     <h2>Wesner Moise</h2>
     <p>Wesner Moise is a founder of SoftPerson, LLC, which develops desktop applications that employ Symbolic AI. Wesner previously worked as a software developer in the Microsoft Excel group at Microsoft from 1994 to 2000 and writes a blog at wesnerm.blogs.com, before pursuing an MBA in entrepreneurial studies.</p>
     <a name="static-analysis"></a>
-    <h3>Static Analysis</h3>
+    <h3>Static Analysis (<a href="talks/30-WesnerMoise-StaticAnalysis.html">video</a>)</h3>
     <p>Part research tool and part commercial application, NStatic is a static analysis tool. It uses primarily a computer algebraic approach to checking for errors, but also incorporates ideas from theorem proving, sat-solving, and constraint solving. This talk goes into the details behind the design decisions and implementation of a static analysis tool.</p>
     <hr />
     
@@ -175,15 +183,17 @@ h3 {
     <h2>Jason Olson</h2>
     <p></p>
     <a name="are-modern-oo-langs-oo"></a>
-    <h3>Are modern object-oriented languages actually object-oriented?</h3>
+    <h3>Are modern object-oriented languages actually object-oriented? (<a href="talks/31-JasonOlson-ModernOO.html">video</a>)</h3>
     <p>There are a lot of modern languages out there like C#, Visual Basic, Java, C++ (and so on) that like to call themselves object-oriented languages. But are they actually object-oriented? Has the concept of an object-oriented language actually been ruined by these modern languages? Or is object-oriented purity only for academia? </p>
+    <h3>F# Parsing (<a href="talks/24-JasonOlson-FSharp.html">video</a>)</h3>
+    <p></p>
     <hr />
 
     <a name="tomas-petricek"></a>
     <h2>Tomas Petricek</h2>
     <p>Tomas is a student at Charles University in Prague and author of “Real World Functional Programming” book, which introduces functional approach to programming using F# and C#. He is active in the .NET and F# community, and he has been Microsoft MVP since 2004. Recently, he was involved in the Phalanger project where he worked on Silverlight support and improving C# to PHP interoperability. He also spent three and six months doing internships at Microsoft Research in Cambridge. During the first visit, he was working on a unified and type-checked approach to client/server web application development. More lately, he started working on extending the F# language to simplify concurrent and reactive programming. More information about his projects and his articles can be found at his website: <a href="http://tomasp.net" target="_blank">http://tomasp.net</a>.</p>
     <a name="reactive-pattern-matching-for-f"></a>
-    <h3>Reactive pattern matching for F#</h3>
+    <h3>Reactive pattern matching for F# (<a href="talks/22-TomasPatricek-Reactive.html">video</a>)</h3>
     <p>The reactivity of an application is the key concern of the user. When writing reactive applications, we need to handle user interaction, but also spawning and completion of asynchronous operations (such as web service requests) and inputs from concurrently executing computations. In this talk, we’ll look at a simple extension for the F# language that adds generalized pattern matching to F# computation expressions. We’ll use this extension for providing easy syntax for many reactive and concurrent programming techniques. In particular, we’ll look how pattern matching on multiple sources of events makes it possible to clearly encode the logic of the application control flow. (This is a project done with Don Syme during an internship at Microsoft Research Cambridge)</p>
     <hr />
 
@@ -191,7 +201,7 @@ h3 {
     <h2>Joshua Phillips</h2>
     <p>Joshua Phillips is a Program Manager on Microsoft’s Parallel Computing Platform. At present, he works on current and incubation technologies concerned with shared-state and safety in parallel computing including the coordination data structures of .NET 4.0 and Axum.</p>
     <a name="axum"></a>
-    <h3>Axum: A .NET Coordination Language for Safe Concurrency</h3>
+    <h3>Axum: A .NET Coordination Language for Safe Concurrency (<a href="talks/32-JoshuaPhillips-Axum.html">video</a>)</h3>
     <p>Axum is an incubation project from Microsoft’s Parallel Computing Platform that aims to validate a safe and productive parallel programming model for the .NET framework.  It’s a language that builds upon the architecture of the web and the principles of isolation, agents, and message-passing to increase application safety, responsiveness, scalability and developer productivity.  Other advanced concepts we are exploring are data flow networks, asynchronous methods, and type annotations for taming side-effects.  We currently have a working prototype with basic Visual Studio integration and a few demonstrations of working code.</p>
     <hr />
 
@@ -224,7 +234,7 @@ h3 {
     <h2>John Rose</h2>
     <p></p>
     <a name="mh-ii-jvm"></a>
-    <h3>Method Handles and Interface Injection in the JVM</h3>
+    <h3>Method Handles and Interface Injection in the JVM (<a href="talks/19-JohnRose-JVM.html">video</a>)</h3>
     <p>The Da Vinci Machine Project has been adding new language-neutral features to the Java managed runtime to support user-definable linkage (in the "invokedynamic" instruction), type-safe class extension, tailcalls, and continuations.  We will outline these features and their status.  Adding invokedynamic required the introduction of something like function pointers, which the JVM calls "method handles".  Time permitting, we will detail the design of method handles, discuss their implementation, compare them to C# delegates, and show how they can be used to implement various language features.</p>
     <hr />
 
@@ -257,7 +267,7 @@ h3 {
     <h2>Jack Tilford</h2>
     <p></p>
     <a name="vs2010-editor"></a>
-    <h3>The Visual Studio 2010 Editor</h3>
+    <h3>The Visual Studio 2010 Editor (<a href="talks/16-JackTilford-VS2010Editor.html">video</a>)</h3>
     <p>A brief introduction to the new Visual Studio 2010 editor and how it can be extended.</p>
     <hr />
 
@@ -273,7 +283,7 @@ h3 {
     <h2>Herman Venter</h2>
     <p> Herman Venter is a Research Software Engineer in the Research In Software Engineering (RISE) group in the Microsoft Research Redmond laboratory, where he is the local programming language enthusiast and compiler writer. Prior to joining MSR, Herman worked in the Developer Division, initially on JScript .NET. After completing the JScript .NET project Herman worked in collaboration with MSR on Comega and Spec#. Since joining MSR on a full time basis, Herman has worked on Spec#, the Verifying C compiler, CCI version 2 and lately on JScript again (initially in the context of the Gazelle browser project). Before coming to Microsoft, Herman was a professor of Computer Science at the University of Port Elizabeth in South Africa.</p>
     <a name="compiler-infrastructure"></a>
-    <h3>The MSR Common Compiler Infrastructure project (CCI)</h3>
+    <h3>The MSR Common Compiler Infrastructure project (CCI) (<a href="talks/26-HermanVenter-CCI.html">video</a>)</h3>
     <p>CCI is a set of libraries containing code used that compiler front ends tend to have in common. It can also be used for creating post compilation tools operating on CLR assemblies. The first version of CCI was used to create the MSR Spec# compiler, and the ILMerge tool. It is also the library that is at the heart of FxCop. The second version of CCI has been used to create the MSR Verifying C compiler (vcc) and is also used for Managed Code Contracts and various post compilation tools in the CLR. This version of CCI has now become an open source project on CodePlex. This talk gives an overview of what is on CodePlex, what can be done with it as it is now, and how it can grow with the aid of community involvement.</p>
     <hr />
 
@@ -281,7 +291,7 @@ h3 {
     <h2>Paul Vick</h2>
     <p></p>
     <a name="modeling-part2"></a>
-    <h3>Modeling: Language and Data</h3>
+    <h3>Modeling: Language and Data (<a href="talks/37-PaulVickDavidLangworthy-M.html">video</a>)</h3>
     <p></p>
     <hr />
 
@@ -289,7 +299,7 @@ h3 {
     <h2>Philip Wadler</h2>
     <p></p>
     <a name="links"></a>
-    <h3>Links: Web programming without tiers</h3>
+    <h3>Links: Web programming without tiers (<a href="talks/29-PhilipWadler-Links.html">video</a>)</h3>
     <p>Links is a programming language for web applications that generates code for all three tiers of a web application from a single source, compiling into JavaScript to run on the client and into SQL to run on the database. Links supports rich clients running in what has been dubbed Ajax style, and supports concurrent processes with statically-typed message passing. Links is scalable in the sense that session state is preserved in the client rather than the server, in contrast to other approaches such as Java Servlets or PLT Scheme. Client-side concurrency in JavaScript and transfer of computation between client and server are both supported by translation into continuation-passing style.</p>
     <hr />
 
@@ -297,7 +307,7 @@ h3 {
     <h2>Frank Wierzbicki</h2>
     <p></p>
     <a name="jython-and-the-jvm"></a>
-    <h3>Jython and the JVM</h3>
+    <h3>Jython and the JVM (<a href="talks/28-FrankWierzbicki-Jython.html">video</a>)</h3>
     <p>Jython is a Java implementation of the high-level, dynamic, object-oriented Python programming language, which seamlessly integrates with the Java platform, allowing you to run Python on any Java platform. I will give an overview of Jython's implementation, with a focus on the current challenges regarding method dispatch, and how we can use "invokedyanamic" and "method handles" coming in JDK 7 to make the implementation better.</p>
     <hr />
 
