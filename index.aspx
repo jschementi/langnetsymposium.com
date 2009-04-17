@@ -59,10 +59,10 @@
     
     <div class="announcement" style="margin-top: 10px; border: 5px solid #00bb00; ">
       <div style="font-weight: bold; font-size: 125%; padding: 4px; background-color: #00bb00; color: white;">
-         Lang.NET 2009 Agenda and Speakers
+         Lang.NET 2009 Videos
       </div>
       <div style="padding: 5px; color: black;">
-        The <a href="agenda.aspx">2009 Agenda</a> is now available. Talk topics and speaker bios can be found on the <a href="speakers.aspx">Speakers</a> page.
+        The <a href="talks.aspx">2009 Videos</a> are now available. Talk topics and speaker bios can be found on the <a href="speakers.aspx">Speakers</a> page.
       </div>
     </div>
     
