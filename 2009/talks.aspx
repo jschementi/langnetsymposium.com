@@ -3,6 +3,7 @@
 <head>
 <link href="../screen.css" rel="stylesheet" type="text/css"/>
 <title>2009 Lang.NET Symposium - Talks</title>
+<link rel="alternate" type="application/rss+xml" title="Lang.NET 2009 Videos RSS" href="talks.xml" />
 <style type="text/css">
 <!--
 .meal {
