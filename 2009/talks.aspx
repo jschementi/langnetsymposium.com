@@ -116,7 +116,7 @@ hr {
 <a href="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/09-KeithRobertson-Sable.wmv">wmv</a>
 <hr />
 <img src="talks/Images/10-TimMacFarlaine-LightningTycho_Thumb.jpg" width:"66" height="50" />
-<a href="talks/10-TimMacFarlaine-LightningTycho.html">10-TimMacFarlaine-LightningTycho</a>
+<a href="talks/10-TimMacFarlaine-LightningTycho.html">10-TimMacFarlane-LightningTycho</a>
 <a href="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/10-TimMacFarlaine-LightningTycho.wmv">wmv</a>
 <hr />
 <img src="talks/Images/11-AndersHejlsberg-LightningCovariantContravariant_Thumb.jpg" width:"66" height="50" />

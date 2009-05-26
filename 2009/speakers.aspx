@@ -137,7 +137,7 @@ h3 {
     <hr />
 
     <a name="tim-mcfarlaine"></a>
-    <h2>Tim McFarlaine</h2>
+    <h2>Tim McFarlane</h2>
     <p></p>
     <a name="tycho"></a>
     <h3>Tycho (<a href="talks/10-TimMacFarlaine-LightningTycho.html">video</a>)</h3>
