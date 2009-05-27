@@ -1,64 +1,192 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="ISO-8859-1"?>
 <rss version="2.0">
-
-<channel>
-
-<title>Lang.NET 2009 Videos</title>
-<link>http://langnetsymposium.com/2009/talks.aspx</link>
-
-  <item>
-    <title>01 - Jason Zander - Keynote</title>
-    <link>http://langnetsymposium.com/2009/talks/01-JasonZander-Keynote.html</link>
-  </item>
-  <item>
-    <title>02 - Mads Torgersen - CSharp 4 Dynamic</title>
-    <link>http://langnetsymposium.com/2009/talks/02-MadsTorgersen-CSharp4Dynamic.html</link>
-  </item>
-  <item>
-    <title>03 - Ted Neward - Objective CSharp</title>
-    <link>http://langnetsymposium.com/2009/talks/03-TedNeward-ObjectiveCSharp.html</link>
-  </item>
-  <item>
-    <title>04-JeffreySax-NumericalComputingDLR</title>
-    <link>http://langnetsymposium.com/2009/talks/04-JeffreySax-NumericalComputingDLR.html</link>
-  </item>
-  <item>
-    <title>05-MatthewWilson-Perl</title>
-    <link>http://langnetsymposium.com/2009/talks/05-MatthewWilson-Perl.html</link>
-  </item>
-
-<item><title>06-TedNeward-VSLangService</title><link>http://langnetsymposium.com/2009/talks/06-TedNeward-VSLangService.html</link></item>
-<item><title>07-EmmanuelStapf-Eiffel</title><link>http://langnetsymposium.com/2009/talks/07-EmmanuelStapf-Eiffel.html</link></item>
-<item><title>08-GiladBracha-Hopscotch</title><link>http://langnetsymposium.com/2009/talks/08-GiladBracha-Hopscotch.html</link></item>
-<item><title>09-KeithRobertson-Sable</title><link>http://langnetsymposium.com/2009/talks/09-KeithRobertson-Sable.html</link></item>
-<item><title>10-TimMacFarlane-LightningTycho</title><link>http://langnetsymposium.com/2009/talks/10-TimMacFarlaine-LightningTycho.html</link></item>
-<item><title>11-AndersHejlsberg-LightningCovariantContravariant</title><link>http://langnetsymposium.com/2009/talks/11-AndersHejlsberg-LightningCovariantContravariant.html</link></item>
-<item><title>12-RomanIvantsov-Irony</title><link>http://langnetsymposium.com/2009/talks/12-RomanIvantsov-Irony.html</link></item>
-<item><title>13-RomanIvantsov-IronPythonMSDynamic</title><link>http://langnetsymposium.com/2009/talks/13-RomanIvantsov-IronPythonMSDynamic.html</link></item>
-<item><title>14-JeffreySnover-Powershell</title><link>http://langnetsymposium.com/2009/talks/14-JeffreySnover-Powershell.html</link></item>
-<item><title>15-KarlProsser-PowershellDSL</title><link>http://langnetsymposium.com/2009/talks/15-KarlProsser-PowershellDSL.html</link></item>
-<item><title>16-JackTilford-VS2010Editor</title><link>http://langnetsymposium.com/2009/talks/16-JackTilford-VS2010Editor.html</link></item>
-<item><title>17-JimPurbrick-SecondLife</title><link>http://langnetsymposium.com/2009/talks/17-JimPurbrick-SecondLife.html</link></item>
-<item><title>18-LarsBak-JavaScript</title><link>http://langnetsymposium.com/2009/talks/18-LarsBak-JavaScript.html</link></item>
-<item><title>19-JohnRose-JVM</title><link>http://langnetsymposium.com/2009/talks/19-JohnRose-JVM.html</link></item>
-<item><title>20-JoshuaGoodman-CLR</title><link>http://langnetsymposium.com/2009/talks/20-JoshuaGoodman-CLR.html</link></item>
-<item><title>21-AmanderLauter-FSharpConcurrency</title><link>http://langnetsymposium.com/2009/talks/21-AmanderLauter-FSharpConcurrency.html</link></item>
-<item><title>22-TomasPatricek-Reactive</title><link>http://langnetsymposium.com/2009/talks/22-TomasPatricek-Reactive.html</link></item>
-<item><title>23-ErikMeijer-LiveLabsReactiveFramework</title><link>http://langnetsymposium.com/2009/talks/23-ErikMeijer-LiveLabsReactiveFramework.html</link></item>
-<item><title>24-JasonOlson-FSharp</title><link>http://langnetsymposium.com/2009/talks/24-JasonOlson-FSharp.html</link></item>
-<item><title>25-LukeHoban-FSharpProductization</title><link>http://langnetsymposium.com/2009/talks/25-LukeHoban-FSharpProductization.html</link></item>
-<item><title>26-HermanVenter-CCI</title><link>http://langnetsymposium.com/2009/talks/26-HermanVenter-CCI.html</link></item>
-<item><title>27-HarryPierson-IPyDbg</title><link>http://langnetsymposium.com/2009/talks/27-HarryPierson-IPyDbg.html</link></item>
-<item><title>28-FrankWierzbicki-Jython</title><link>http://langnetsymposium.com/2009/talks/28-FrankWierzbicki-Jython.html</link></item>
-<item><title>29-PhilipWadler-Links</title><link>http://langnetsymposium.com/2009/talks/29-PhilipWadler-Links.html</link></item>
-<item><title>30-WesnerMoise-StaticAnalysis</title><link>http://langnetsymposium.com/2009/talks/30-WesnerMoise-StaticAnalysis.html</link></item>
-<item><title>31-JasonOlson-ModernOO</title><link>http://langnetsymposium.com/2009/talks/31-JasonOlson-ModernOO.html</link></item>
-<item><title>32-JoshuaPhillips-Axum</title><link>http://langnetsymposium.com/2009/talks/32-JoshuaPhillips-Axum.html</link></item>
-<item><title>33-KeithCurtis-SurveyOfToolsAndLanguages</title><link>http://langnetsymposium.com/2009/talks/33-KeithCurtis-SurveyOfToolsAndLanguages.html</link></item>
-<item><title>34-ManuelFahndrich-CodeContracts</title><link>http://langnetsymposium.com/2009/talks/34-ManuelFahndrich-CodeContracts.html</link></item>
-<item><title>35-JoeMistachkin-Eagle</title><link>http://langnetsymposium.com/2009/talks/35-JoeMistachkin-Eagle.html</link></item>
-<item><title>36-PeliDeHalleux-Pex</title><link>http://langnetsymposium.com/2009/talks/36-PeliDeHalleux-Pex.html</link></item>
-<item><title>37-PaulVickDavidLangworthy-M</title><link>http://langnetsymposium.com/2009/talks/37-PaulVickDavidLangworthy-M.html</link></item>
-
-</channel>
+  <channel>
+    <title>Lang.NET 2009 Videos</title>
+    <link>http://langnetsymposium.com/2009/talks.aspx</link>
+    <item>
+      <title>01 - Jason Zander - Keynote</title>
+      <link>http://langnetsymposium.com/2009/talks/01-JasonZander-Keynote.html</link>
+      <enclosure url="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/01-JasonZander-Keynote.wmv" type="audio/x-ms-wmv" length="213134635" />
+    </item>
+    <item>
+      <title>02 - Mads Torgersen - CSharp 4 Dynamic</title>
+      <link>http://langnetsymposium.com/2009/talks/02-MadsTorgersen-CSharp4Dynamic.html</link>
+      <enclosure url="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/02-MadsTorgersen-CSharp4Dynamic.wmv" type="audio/x-ms-wmv" length="204758425" />
+    </item>
+    <item>
+      <title>03 - Ted Neward - Objective CSharp</title>
+      <link>http://langnetsymposium.com/2009/talks/03-TedNeward-ObjectiveCSharp.html</link>
+      <enclosure url="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/03-TedNeward-ObjectiveCSharp.wmv" type="audio/x-ms-wmv" length="106305943" />
+    </item>
+    <item>
+      <title>04-JeffreySax-NumericalComputingDLR</title>
+      <link>http://langnetsymposium.com/2009/talks/04-JeffreySax-NumericalComputingDLR.html</link>
+      <enclosure url="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/04-JeffreySax-NumericalComputingDLR.wmv" type="audio/x-ms-wmv" length="265881269" />
+    </item>
+    <item>
+      <title>05-MatthewWilson-Perl</title>
+      <link>http://langnetsymposium.com/2009/talks/05-MatthewWilson-Perl.html</link>
+      <enclosure url="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/05-MatthewWilson-Perl.wmv" type="audio/x-ms-wmv" length="91913535" />
+    </item>
+    <item>
+      <title>06-TedNeward-VSLangService</title>
+      <link>http://langnetsymposium.com/2009/talks/06-TedNeward-VSLangService.html</link>
+      <enclosure url="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/06-TedNeward-VSLangService.wmv" type="audio/x-ms-wmv" length="109226639" />
+    </item>
+    <item>
+      <title>07-EmmanuelStapf-Eiffel</title>
+      <link>http://langnetsymposium.com/2009/talks/07-EmmanuelStapf-Eiffel.html</link>
+      <enclosure url="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/07-EmmanuelStapf-Eiffel.wmv" type="audio/x-ms-wmv" length="136867149" />
+    </item>
+    <item>
+      <title>08-GiladBracha-Hopscotch</title>
+      <link>http://langnetsymposium.com/2009/talks/08-GiladBracha-Hopscotch.html</link>
+      <enclosure url="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/08-GiladBracha-Hopscotch.wmv" type="audio/x-ms-wmv" length="313811081" />
+    </item>
+    <item>
+      <title>09-KeithRobertson-Sable</title>
+      <link>http://langnetsymposium.com/2009/talks/09-KeithRobertson-Sable.html</link>
+      <enclosure url="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/09-KeithRobertson-Sable.wmv" type="audio/x-ms-wmv" length="192261561" />
+    </item>
+    <item>
+      <title>10-TimMacFarlane-LightningTycho</title>
+      <link>http://langnetsymposium.com/2009/talks/10-TimMacFarlaine-LightningTycho.html</link>
+      <enclosure url="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/10-TimMacFarlaine-LightningTycho.wmv" type="audio/x-ms-wmv" length="90161787" />
+    </item>
+    <item>
+      <title>11-AndersHejlsberg-LightningCovariantContravariant</title>
+      <link>http://langnetsymposium.com/2009/talks/11-AndersHejlsberg-LightningCovariantContravariant.html</link>
+      <enclosure url="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/11-AndersHejlsberg-LightningCovariantContravariant.wmv" type="audio/x-ms-wmv" length="124066633" />
+    </item>
+    <item>
+      <title>12-RomanIvantsov-Irony</title>
+      <link>http://langnetsymposium.com/2009/talks/12-RomanIvantsov-Irony.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/12-RomanIvantsov-Irony.wmv" type="audio/x-ms-wmv" length="118314769" />
+    </item>
+    <item>
+      <title>13-RomanIvantsov-IronPythonMSDynamic</title>
+      <link>http://langnetsymposium.com/2009/talks/13-RomanIvantsov-IronPythonMSDynamic.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/13-RomanIvantsov-IronPythonMSDynamic.wmv" type="audio/x-ms-wmv" length="120634447" />
+    </item>
+    <item>
+      <title>14-JeffreySnover-Powershell</title>
+      <link>http://langnetsymposium.com/2009/talks/14-JeffreySnover-Powershell.html</link>
+      <enclosure url="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/14-JeffreySnover-Powershell.wmv" type="audio/x-ms-wmv" length="135579551" />
+    </item>
+    <item>
+      <title>15-KarlProsser-PowershellDSL</title>
+      <link>http://langnetsymposium.com/2009/talks/15-KarlProsser-PowershellDSL.html</link>
+      <enclosure url="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/15-KarlProsser-PowershellDSL.wmv" type="audio/x-ms-wmv" length="99057445" />
+    </item>
+    <item>
+      <title>16-JackTilford-VS2010Editor</title>
+      <link>http://langnetsymposium.com/2009/talks/16-JackTilford-VS2010Editor.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/16-JackTilford-VS2010Editor.wmv" type="audio/x-ms-wmv" length="100025707" />
+    </item>
+    <item>
+      <title>17-JimPurbrick-SecondLife</title>
+      <link>http://langnetsymposium.com/2009/talks/17-JimPurbrick-SecondLife.html</link>
+      <enclosure url="http://download.microsoft.com/download/B/F/0/BF0DAE51-F096-4DB4-8707-ACBDB7680BC0/17-JimPurbrick-SecondLife.wmv" type="audio/x-ms-wmv" length="301322541" />
+    </item>
+    <item>
+      <title>18-LarsBak-JavaScript</title>
+      <link>http://langnetsymposium.com/2009/talks/18-LarsBak-JavaScript.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/18-LarsBak-JavaScript.wmv" type="audio/x-ms-wmv" length="315571483" />
+    </item>
+    <item>
+      <title>19-JohnRose-JVM</title>
+      <link>http://langnetsymposium.com/2009/talks/19-JohnRose-JVM.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/19-JohnRose-JVM.wmv" type="audio/x-ms-wmv" length="224839649" />
+    </item>
+    <item>
+      <title>20-JoshuaGoodman-CLR</title>
+      <link>http://langnetsymposium.com/2009/talks/20-JoshuaGoodman-CLR.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/20-JoshuaGoodman-CLR.wmv" type="audio/x-ms-wmv" length="227679731" />
+    </item>
+    <item>
+      <title>21-AmanderLauter-FSharpConcurrency</title>
+      <link>http://langnetsymposium.com/2009/talks/21-AmanderLauter-FSharpConcurrency.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/21-AmanderLauter-FSharpConcurrency.wmv" type="audio/x-ms-wmv" length="86194741" />
+    </item>
+    <item>
+      <title>22-TomasPatricek-Reactive</title>
+      <link>http://langnetsymposium.com/2009/talks/22-TomasPatricek-Reactive.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/22-TomasPatricek-Reactive.wmv" type="audio/x-ms-wmv" length="305370851" />
+    </item>
+    <item>
+      <title>23-ErikMeijer-LiveLabsReactiveFramework</title>
+      <link>http://langnetsymposium.com/2009/talks/23-ErikMeijer-LiveLabsReactiveFramework.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/23-ErikMeijer-LiveLabsReactiveFramework.wmv" type="audio/x-ms-wmv" length="242200111" />
+    </item>
+    <item>
+      <title>24-JasonOlson-FSharp</title>
+      <link>http://langnetsymposium.com/2009/talks/24-JasonOlson-FSharp.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/24-JasonOlson-FSharp.wmv" type="audio/x-ms-wmv" length="116658607" />
+    </item>
+    <item>
+      <title>25-LukeHoban-FSharpProductization</title>
+      <link>http://langnetsymposium.com/2009/talks/25-LukeHoban-FSharpProductization.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/25-LukeHoban-FSharpProductization.wmv" type="audio/x-ms-wmv" length="234551673" />
+    </item>
+    <item>
+      <title>26-HermanVenter-CCI</title>
+      <link>http://langnetsymposium.com/2009/talks/26-HermanVenter-CCI.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/26-HermanVenter-CCI.wmv" type="audio/x-ms-wmv" length="243368555" />
+    </item>
+    <item>
+      <title>27-HarryPierson-IPyDbg</title>
+      <link>http://langnetsymposium.com/2009/talks/27-HarryPierson-IPyDbg.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/27-HarryPierson-IPyDbg.wmv" type="audio/x-ms-wmv" length="172574329" />
+    </item>
+    <item>
+      <title>28-FrankWierzbicki-Jython</title>
+      <link>http://langnetsymposium.com/2009/talks/28-FrankWierzbicki-Jython.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/28-FrankWierzbicki-Jython.wmv" type="audio/x-ms-wmv" length="81136797" />
+    </item>
+    <item>
+      <title>29-PhilipWadler-Links</title>
+      <link>http://langnetsymposium.com/2009/talks/29-PhilipWadler-Links.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/29-PhilipWadler-Links.wmv" type="audio/x-ms-wmv" length="171837771" />
+    </item>
+    <item>
+      <title>30-WesnerMoise-StaticAnalysis</title>
+      <link>http://langnetsymposium.com/2009/talks/30-WesnerMoise-StaticAnalysis.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/30-WesnerMoise-StaticAnalysis.wmv" type="audio/x-ms-wmv" length="148843671" />
+    </item>
+    <item>
+      <title>31-JasonOlson-ModernOO</title>
+      <link>http://langnetsymposium.com/2009/talks/31-JasonOlson-ModernOO.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/31-JasonOlson-ModernOO.wmv" type="audio/x-ms-wmv" length="110611677" />
+    </item>
+    <item>
+      <title>32-JoshuaPhillips-Axum</title>
+      <link>http://langnetsymposium.com/2009/talks/32-JoshuaPhillips-Axum.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/32-JoshuaPhillips-Axum.wmv" type="audio/x-ms-wmv" length="100513691" />
+    </item>
+    <item>
+      <title>33-KeithCurtis-SurveyOfToolsAndLanguages</title>
+      <link>http://langnetsymposium.com/2009/talks/33-KeithCurtis-SurveyOfToolsAndLanguages.html</link>
+      <enclosure url="http://download.microsoft.com/download/7/6/A/76A69AE5-72B5-4005-BBD9-7EA5F4795014/33-KeithCurtis-SurveyOfToolsAndLanguages.wmv" type="audio/x-ms-wmv" length="161764235" />
+    </item>
+    <item>
+      <title>34-ManuelFahndrich-CodeContracts</title>
+      <link>http://langnetsymposium.com/2009/talks/34-ManuelFahndrich-CodeContracts.html</link>
+      <enclosure url="http://download.microsoft.com/download/1/9/0/19081D0E-C8F7-4934-A323-34FAF3B27F1B/34-ManuelFahndrich-CodeContracts.wmv" type="audio/x-ms-wmv" length="290329923" />
+    </item>
+    <item>
+      <title>35-JoeMistachkin-Eagle</title>
+      <link>http://langnetsymposium.com/2009/talks/35-JoeMistachkin-Eagle.html</link>
+      <enclosure url="http://download.microsoft.com/download/1/9/0/19081D0E-C8F7-4934-A323-34FAF3B27F1B/35-JoeMistachkin-Eagle.wmv" type="audio/x-ms-wmv" length="244455799" />
+    </item>
+    <item>
+      <title>36-PeliDeHalleux-Pex</title>
+      <link>http://langnetsymposium.com/2009/talks/36-PeliDeHalleux-Pex.html</link>
+      <enclosure url="http://download.microsoft.com/download/1/9/0/19081D0E-C8F7-4934-A323-34FAF3B27F1B/36-PeliDeHalleux-Pex.wmv" type="audio/x-ms-wmv" length="100289499" />
+    </item>
+    <item>
+      <title>37-PaulVickDavidLangworthy-M</title>
+      <link>http://langnetsymposium.com/2009/talks/37-PaulVickDavidLangworthy-M.html</link>
+      <enclosure url="http://download.microsoft.com/download/1/9/0/19081D0E-C8F7-4934-A323-34FAF3B27F1B/37-PaulVickDavidLangworthy-M.wmv" type="audio/x-ms-wmv" length="467153969" />
+    </item>
+  </channel>
 </rss>
